@@ -48,8 +48,26 @@ Green Lights Forever
 Starting as a course project in
 [EECS 588](https://www.eecs.umich.edu/courses/eecs588/), a group of three other
 students and I investigated the security of an intelligent traffic light system
-in the United States. This work was submitted to WOOT'14 and results will be
-posted soon.
+in the United States. This work was presented at WOOT'14.
+
+**Abstract:**  
+The safety critical nature of traffic infrastructure requires that it
+be secure against computer-based attacks, but this is not always the case.
+We investigate a networked traffic signal system currently deployed in the
+United States and discover a number of security flaws that exist due to
+systemic failures by the designers. We leverage these flaws to create attacks
+which gain control of the system, and we successfully demonstrate them on the
+deployment in coordination with authorities. Our attacks show that an
+adversary can control traffic infrastructure to cause disruption, degrade
+safety, or gain an unfair advantage. We make recommendations on how to improve
+existing systems and discuss the lessons learned for embedded systems security
+in general.
+
+<p>
+<tt>
+<a href="research/ghena14green_lights.pdf">[paper]</a>
+</tt>
+</p>
 
 ---
 
