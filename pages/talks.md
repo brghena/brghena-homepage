@@ -1,6 +1,22 @@
 Talks
 =====
 
+2014
+----
+### 8th USENIX Workshop on Offensive Technologies
+At WOOT I presented on the Green Lights Forever paper which was accepted at
+the workshop. The presentation was an overview of our work investigating the
+security of intelligent traffic light systems.
+
+<p>
+<tt>
+<a href="projects/ghena14green_lights.pptx">[presentation]</a>
+<a href="https://www.usenix.org/conference/woot14/workshop-program/presentation/ghena">[video]</a>
+</tt>
+</p>
+
+---
+
 2013
 ----
 ### JPL Cubesat Symposium
@@ -11,7 +27,7 @@ worked on during my undergrad at Michigan Tech.
 
 <p>
 <tt>
-<a href="research/Oculus_ASR_Nanosatellite_JPL.pptx">[presentation]</a>
+<a href="projects/Oculus_ASR_Nanosatellite_JPL.pptx">[presentation]</a>
 </tt>
 </p>
 

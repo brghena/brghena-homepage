@@ -1,4 +1,4 @@
-Research
+Projects
 ========
 
 My research focuses on embedded systems. It is the kind of field
@@ -36,8 +36,39 @@ RFID cards and [Fitbits](https://www.fitbit.com/) to discover people.
 Terraswarm Localization Workshop 2014:
 <br>
 <tt>
-<a href="research/whereabouts_terraswarmLocalization.pdf">[poster]</a>
-<a href="research/whereabouts.pptx">[presentation]</a>
+<a href="projects/whereabouts_terraswarmLocalization.pdf">[poster]</a>
+<a href="projects/whereabouts.pptx">[presentation]</a>
+</tt>
+</p>
+
+---
+
+Thermes
+-------
+Taking the Monjolo Principle of energy-harvester as a sensor, we created a new
+platform with a heat harvesting thermoelectric generator. This work was
+published at ENSsys 2014.
+
+**Abstract:**
+Fine-grained energy metering in homes and buildings provides a promising
+technique for addressing the unmaintainable energy consumption levels of
+worldwide buildings. Metering electricity, lighting, natural gas, HVAC,
+occupancy, and water on a per appliance or room basis can provide invaluable insight
+when trying to reduce a building's energy footprint. A myriad of sensor designs
+and systems collect data on particular building aspects, but are often hampered
+by installation difficulty or ongoing maintenance needs (like battery
+replacement). We address these common pitfalls for water and heat metering by
+developing a small, energy-harvesting sensor that meters using the same
+thermoelectric generator with which it powers itself. In short, the rate at which
+the harvester captures energy is proportional to the heat production of the
+monitored appliance or pipe and this relationship allows us to estimate energy use
+simply based on the sensor's ability to harvest. We prototype our sensor in a
+bracelet shaped form-factor that can attach to a shower head pipe, faucet, or
+appliance to provide local hot water or heat metering.
+
+<p>
+<tt>
+<a href="projects/campbell14thermes.pdf">[paper]</a>
 </tt>
 </p>
 
@@ -48,7 +79,7 @@ Green Lights Forever
 Starting as a course project in
 [EECS 588](https://www.eecs.umich.edu/courses/eecs588/), a group of three other
 students and I investigated the security of an intelligent traffic light system
-in the United States. This work was presented at WOOT'14.
+in the United States. This work was published at WOOT 2014.
 
 **Abstract:**  
 The safety critical nature of traffic infrastructure requires that it
@@ -65,7 +96,8 @@ in general.
 
 <p>
 <tt>
-<a href="research/ghena14green_lights.pdf">[paper]</a>
+<a href="projects/ghena14green_lights.pdf">[paper]</a>
+<a href="projects/ghena14green_lights.pptx">[presentation]</a>
 </tt>
 </p>
 
@@ -81,7 +113,7 @@ gaze detection is finally within our grasp. Using a microcontroller running
 uCLinux and an FPGA, we can pull real-time images from two small cameras, one
 facing inwards towards the eye and one facing outwards towards the world. This
 data can be used to determine which object in view you are observing. Imagine
-a world where your car would warn you if you weren't paying attention, where
+a world where your car would warn you if you were not paying attention, where
 your phone would have interesting information available on the item you were
 just observing, and where you could track how you actually spend your time each
 day.
@@ -117,7 +149,7 @@ callibrate their algorithms and enable new advances in space awareness.
 JPL Cubesat Symposium 2013:
 <br>
 <tt>
-<a href="research/Oculus_ASR_Nanosatellite_JPL.pptx">[presentation]</a>
+<a href="projects/Oculus_ASR_Nanosatellite_JPL.pptx">[presentation]</a>
 </tt>
 </p>
 
