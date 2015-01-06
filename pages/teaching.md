@@ -38,8 +38,7 @@ Powerpoint:
 <a href="teaching/discussion_11.pptx">[11]</a>
 <a href="teaching/discussion_12.pptx">[12]</a>
 </tt>
-</p>
-<p>
+<br>
 PDF: 
 <tt>
 <a href="teaching/discussion_1.pdf">[1]</a>

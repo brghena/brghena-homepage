@@ -34,6 +34,15 @@ RFID door entry and smartphone WiFi connections to increase its accuracy.
 </p>
 
 <p>
+Terraswarm Annual Meeting 2014:
+<br>
+<tt>
+<a href="projects/whereabouts/wearabouts_terraswarmAnnual.pdf">[poster]</a>
+</tt>
+</p>
+
+
+<p>
 Terraswarm Localization Workshop 2014:
 <br>
 <tt>
@@ -70,6 +79,7 @@ appliance to provide local hot water or heat metering.
 <p>
 <tt>
 <a href="projects/thermonjolo/campbell14thermes.pdf">[paper]</a>
+<a href="projects/thermonjolo/campbell14thermes.pptx">[presentation]</a>
 </tt>
 </p>
 

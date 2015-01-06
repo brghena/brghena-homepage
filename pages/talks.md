@@ -3,6 +3,18 @@ Talks
 
 2014
 ----
+### 2nd International Workshop on Energy Neutral Sensing Systems
+At ENSsys I presented the work on Thermes, our thermoelectric energy-harvesting
+water meter. The presentation looked at Thermes as a member of the Monjolo
+family and the challenges that make thermoelectric energy harvesting unique.
+
+<p>
+<tt>
+<a href="projects/thermonjolo/campbell14thermes.pptx">[presentation]</a>
+</tt>
+</p>
+
+
 ### 8th USENIX Workshop on Offensive Technologies
 At WOOT I presented on the Green Lights Forever paper which was accepted at
 the workshop. The presentation was an overview of our work investigating the
