@@ -10,7 +10,7 @@ security of intelligent traffic light systems.
 
 <p>
 <tt>
-<a href="projects/ghena14green_lights.pptx">[presentation]</a>
+<a href="projects/green_lights/ghena14green_lights.pptx">[presentation]</a>
 <a href="https://www.usenix.org/conference/woot14/workshop-program/presentation/ghena">[video]</a>
 </tt>
 </p>
@@ -27,7 +27,7 @@ worked on during my undergrad at Michigan Tech.
 
 <p>
 <tt>
-<a href="projects/Oculus_ASR_Nanosatellite_JPL.pptx">[presentation]</a>
+<a href="projects/nanosat/Oculus_ASR_Nanosatellite_JPL.pptx">[presentation]</a>
 </tt>
 </p>
 

@@ -19,7 +19,41 @@ F13:
 I was a Graduate Student Instructor for EECS 370: Computer Organization. My job
 included teaching discussion sessions, holding office hours, and grading
 homework. I discovered that teaching is both a considerable amount of work and
-something I really enjoy.
+something I really enjoy. I won an Outstanding GSI Award for my efforts in
+EECS 370. Below are the discussion lecture slides that I created.
 
-I won an Outstanding GSI Award for my efforts in EECS 370.
+<p>
+Powerpoint: 
+<tt>
+<a href="teaching/discussion_1.pptx">[1]</a>
+<a href="teaching/discussion_2.pptx">[2]</a>
+<a href="teaching/discussion_3.pptx">[3]</a>
+<a href="teaching/discussion_4.pptx">[4]</a>
+<a href="teaching/discussion_5.pptx">[5]</a>
+<a href="teaching/discussion_6.pptx">[6]</a>
+<a href="teaching/discussion_7.pptx">[7]</a>
+<a href="teaching/discussion_8.pptx">[8]</a>
+<a href="teaching/discussion_9.pptx">[9]</a>
+<a href="teaching/discussion_10.pptx">[10]</a>
+<a href="teaching/discussion_11.pptx">[11]</a>
+<a href="teaching/discussion_12.pptx">[12]</a>
+</tt>
+</p>
+<p>
+PDF: 
+<tt>
+<a href="teaching/discussion_1.pdf">[1]</a>
+<a href="teaching/discussion_2.pdf">[2]</a>
+<a href="teaching/discussion_3.pdf">[3]</a>
+<a href="teaching/discussion_4.pdf">[4]</a>
+<a href="teaching/discussion_5.pdf">[5]</a>
+<a href="teaching/discussion_6.pdf">[6]</a>
+<a href="teaching/discussion_7.pdf">[7]</a>
+<a href="teaching/discussion_8.pdf">[8]</a>
+<a href="teaching/discussion_9.pdf">[9]</a>
+<a href="teaching/discussion_10.pdf">[10]</a>
+<a href="teaching/discussion_11.pdf">[11]</a>
+<a href="teaching/discussion_12.pdf">[12]</a>
+</tt>
+</p>
 

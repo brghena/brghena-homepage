@@ -9,21 +9,22 @@ Feel free to contact me if you have any questions: brghena@umich.edu
 
 ---
 
-Whereabouts
+Wearabouts
 -----------
 **"Who's in lab?"**
 
 This is a harder question to answer than it may seem. Determining the location of
 individuals indoors remains an unsolved problem.
 
-The goal of Whereabouts is to perform Semantic Heuristic Localization, that is
-determine the location of an individual at the room level, and use a little bit
-of guessing. The expected output would include each discovered individual and
+The goal of Wearabouts is to perform room-level localization of individuals.
+The expected output would include each discovered individual and
 which room they have been found in.
 An important piece of the design is to not require individuals to carry any
 extra devices. We want to use only things they already carry and
 characteristics of who they are to discover them. Currently, the system uses
-RFID cards and [Fitbits](https://www.fitbit.com/) to discover people.
+Bluetooth Low-Energy advertisements from devices like
+[Fitbits](https://www.fitbit.com/) to discover people and adds information from
+RFID door entry and smartphone WiFi connections to increase its accuracy.
 
 <p>
 <tt>
@@ -36,8 +37,8 @@ RFID cards and [Fitbits](https://www.fitbit.com/) to discover people.
 Terraswarm Localization Workshop 2014:
 <br>
 <tt>
-<a href="projects/whereabouts_terraswarmLocalization.pdf">[poster]</a>
-<a href="projects/whereabouts.pptx">[presentation]</a>
+<a href="projects/whereabouts/whereabouts_terraswarmLocalization.pdf">[poster]</a>
+<a href="projects/whereabouts/whereabouts.pptx">[presentation]</a>
 </tt>
 </p>
 
@@ -68,7 +69,7 @@ appliance to provide local hot water or heat metering.
 
 <p>
 <tt>
-<a href="projects/campbell14thermes.pdf">[paper]</a>
+<a href="projects/thermonjolo/campbell14thermes.pdf">[paper]</a>
 </tt>
 </p>
 
@@ -96,8 +97,27 @@ in general.
 
 <p>
 <tt>
-<a href="projects/ghena14green_lights.pdf">[paper]</a>
-<a href="projects/ghena14green_lights.pptx">[presentation]</a>
+<a href="projects/green_lights/ghena14green_lights.pdf">[paper]</a>
+<a href="projects/green_lights/ghena14green_lights.pptx">[presentation]</a>
+</tt>
+</p>
+
+---
+
+NSF Fellowship
+--------------
+In my 2013 I applied to the NSF Graduate Research
+Fellowship Program and was lucky enough to be awarded a fellowship. This was
+the first year with the new essay rules that reduce the application to two
+essays, Background & Previous Research and Proposed Research, a total of five
+pages. Below, I have provided my essays as well as the reviews I received as
+examples for other students applying to the program.
+
+<p>
+<tt>
+<a href="projects/fellowships/nsf_background_prevResearch.pdf">[background and previous research]</a>
+<a href="projects/fellowships/nsf_propResearch.pdf">[proposed research]</a>
+<a href="projects/fellowships/nsf_reviews.pdf">[reviews]</a>
 </tt>
 </p>
 
@@ -149,7 +169,7 @@ callibrate their algorithms and enable new advances in space awareness.
 JPL Cubesat Symposium 2013:
 <br>
 <tt>
-<a href="projects/Oculus_ASR_Nanosatellite_JPL.pptx">[presentation]</a>
+<a href="projects/nanosat/Oculus_ASR_Nanosatellite_JPL.pptx">[presentation]</a>
 </tt>
 </p>
 
