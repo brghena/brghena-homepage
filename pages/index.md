@@ -53,7 +53,7 @@ My research focuses on Embedded Systems. I am part of
     In _Proceedings of the 2nd International Workshop on Energy Neutral Sensing Systems (ENSsys'14)_  
     Memphis, TN, USA, November 6, 2014  
  
- 2. ["**Green Lights Forever: Analyzing the Security of Traffic Infrastructure**"](projects/green_lists/ghena14green_lights.pdf)  
+ 2. ["**Green Lights Forever: Analyzing the Security of Traffic Infrastructure**"](projects/green_lights/ghena14green_lights.pdf)  
     **Branden Ghena**, William Beyer, Allen Hillaker, Jonathan Pevarnek, and J. Alex Halderman  
     In _Proceedings of the 8th USENIX Workshop on Offensive Technologies (WOOT'14)_  
     San Diego, CA, USA, August 19, 2014  

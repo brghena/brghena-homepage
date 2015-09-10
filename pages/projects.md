@@ -25,6 +25,13 @@ noninvasively sensing current draw, and a Bluetooth Low-Energy radio to
 transmit data to nearby smartphones. This work was published and demonstrated
 at SenSys 2015.
 
+<p>
+<tt>
+<a href="https://github.com/lab11/powerblade">[source]</a>
+<a href="https://youtu.be/oNUXhCDnHoE">[video]</a>
+</tt>
+</p>
+
 **Abstract:**  
 We present PowerBlade, the smallest, lowest cost, and lowest
 power AC plug-load meter that measures real, reactive and apparent power, and
