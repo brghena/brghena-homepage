@@ -1,0 +1,17 @@
+__pycache__/
+cv/*.aux
+cv/*.log
+cv/*.bbl
+cv/*.blg
+cv/*.4ct
+cv/*.4tc
+cv/*.css
+cv/*.dvi
+cv/*.html
+cv/*.idv
+cv/*.lg
+cv/*.tmp
+cv/*.xref
+cv/*.pdf
+cv/www/
+html/

@@ -1,4 +1,4 @@
-all: ghena.pdf www/ghena.html ../cv.tar.gz
+all: ghena.pdf www/ghena.html
 
 ghena.pdf: ghena.tex *.bib
 	pdflatex ghena.tex
@@ -18,14 +18,10 @@ www/ghena.html: ghena.tex *.bib www/
 	htlatex ghena.tex "html" "" "-dwww/"
 	htlatex ghena.tex "html" "" "-dwww/"
 
-../cv.tar.gz: ghena.pdf www/ghena.html
-	cd ../ && tar -czf cv.tar.gz cv/
-
 clean:
 	rm -f *.aux *.log *.pdf *.bbl *.blg
 	rm -f *.4ct *.4tc *.css *.dvi *.html *.idv *.lg *.tmp *.xref
 	rm -rf www/
 	rm -rf ghena/
-	rm -f ../cv.tar.gz
 
 .PHONY: clean

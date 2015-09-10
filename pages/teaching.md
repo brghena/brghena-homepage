@@ -1,15 +1,13 @@
 Teaching
 ========
 
-F14:
+F14, W15:
 ----
 
-I filled in as a guest lecturer for two sessions of EECS 373: Design of
-Microproccessor-Based Systems. I taught on embedded systems toolchains, ARM
+I occasionally fill in as a guest lecturer for EECS 373: Design of
+Microprocessor-Based Systems. I have taught on embedded systems toochains, ARM
 Application Binary Interface, Memory-Mapped I/O, and the AMBA Advanced
-Peripheral Bus. The lectures can be found on the
-[class website](http://web.eecs.umich.edu/~prabal/teaching/eecs373/) and
-example code is available on
+Peripheral Bus. Example code from class is available on
 [my github](https://github.com/brghena/eecs373_toolchain_examples).
 
 

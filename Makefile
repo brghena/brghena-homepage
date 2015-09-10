@@ -15,7 +15,6 @@ deploy:	all
 clean: 
 	rm -rf html/
 	rm -rf __pycache__
-	rm cv.tar.gz
 	$(MAKE) -C cv clean
 
 .PHONY: all local deploy clean

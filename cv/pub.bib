@@ -1,5 +1,68 @@
 
 
+@inproceedings{debruin15powerblade,
+    author = {DeBruin, Samuel and {\bf Ghena}, {\bf Branden} and Kuo, Ye-Sheng and Dutta, Prabal},
+    title = {PowerBlade: A Low-Profile, True-Power, Plug-Through Energy Meter},
+    booktitle = {Proceedings of the 13th ACM Conference on Embedded Networked Sensor Systems},
+    series = {SenSys '15},
+    year = {2015},
+    mon = {Nov},
+    isbn = {987-1-4503-3631-4},
+    doi = {10.1145/2809695.2809716},
+    url = {http://doi.acm.org/10.1145/2809695.2809716},
+    location = {Seoul, Republic of Korea},
+    publisher = {ACM},
+    conference-url = {http://sensys.acm.org/2015/},
+    abstract = { We present PowerBlade, the smallest, lowest cost, and lowest power
+        AC plug-load meter that measures real, reactive and apparent power, and
+        reports this data, along with cumulative energy consumption, over an
+        industry-standard Bluetooth Low Energy radio.  Achieving this design
+        point requires revisiting every aspect of conventional power meters: a
+        new method of acquiring voltage; a non-invasive, planar method of
+        current measurement; an efficient and accurate method of computing
+        power from the voltage and current channels; a radio interface that
+        leverages nearby smart phones to display data and report it to the
+        cloud; and a retro power supply re-imagined with vastly lower current
+        draw, allowing extreme miniaturization.  PowerBlade occupies a mere 1"
+        $\times$ 1" footprint, offers a 1/16" profile, draws less
+        than 180~mW itself, offers 1.13\% error on unity power factor loads in
+        the 2-1200~W range and slightly worse for non-linear and reactive
+        loads, and costs \$11 in modest quantities of about 1,000 units.  This
+        new design point enables affordable large-scale studies of plug-load
+        energy usage---an area of growing national importance.
+    },
+    note = {Acceptance Rate: 27 of 132},
+}
+
+@inproceedings{levy15ownership,
+    author = {Levy, Amit and Andersen, Michael P and Campbell, Bradford and Culler, David and Dutta, Prabal and {\bf Ghena}, {\bf Branden} and Levis, Philip and Pannuto, Pat},
+    title = {Ownership is Theft: Experiences Building an Embedded {OS} in {R}ust},
+    booktitle = {Proceedings of the 8th Workshop on Programming Languages and Operating Systems},
+    series = {PLOS 2015},
+    year = {2015},
+    month = {Oct},
+    location = {Monterey, CA},
+    publisher = {ACM},
+    abstract = { Rust, a new systems programming language, provides
+        compile-time memory safety checks to help eliminate runtime bugs that
+        manifest from improper memory management. This feature is advantageous
+        for operating system development, and especially for embedded OS
+        development, where recovery and debugging are particularly challenging.
+        However, embedded platforms are highly event-based, and Rust's memory
+        safety mechanisms largely presume threads. In our experience developing
+        an operating system for embedded systems in Rust, we have found that
+        Rust's {\em ownership} model prevents otherwise safe resource sharing
+        common in the embedded domain, conflicts with the reality of hardware
+        resources, and hinders using closures for programming asynchronously.
+        We describe these experiences and how they relate to memory safety as
+        well as illustrate our workarounds that preserve the safety guarantees
+        to the largest extent possible. In addition, we draw from our
+        experience to propose a new language extension to Rust that would
+        enable it to provide better memory safety tools for event-driven
+        platforms.
+    },
+    note = {Acceptance Rate: 7 of 16},
+}
 
 @inproceedings{campbell14thermes,
     author = {Campbell, Brad and {\bf Ghena}, {\bf Branden} and Dutta, Prabal},
@@ -25,7 +88,7 @@
     simply based on the sensor's ability to harvest. We prototype our sensor in a
     bracelet shaped form-factor that can attach to a shower head pipe, faucet, or
     appliance to provide local hot water or heat metering.},
-    note = {Acceptance Rate: 9 of 11}
+    note = {Acceptance Rate: 9 of 11},
 }
 
 
@@ -49,6 +112,6 @@
     safety, or gain an unfair advantage. We make recommendations on how to improve
     existing systems and discuss the lessons learned for embedded systems security
     in general.},
-    note = {Acceptance Rate: 17 of 35}
+    note = {Acceptance Rate: 17 of 35},
 }
 

@@ -2,10 +2,53 @@ Projects
 ========
 
 My research focuses on embedded systems. It is the kind of field
-where you debug programs with an oscilloscope. Of particular interest to me
+where you debug software with an oscilloscope. Of particular interest to me
 are low-level architectures and system interfaces.
 
 Feel free to contact me if you have any questions: brghena@umich.edu
+
+---
+
+PowerBlade
+----------
+With an increasing number of miscellaneous electrical loads used in residential
+and commercial buildings, understanding electricity usage patterns requires
+metering every load. Existing plug-load power meters are bulky, power-hungry,
+and require manual user interaction to record energy use. PowerBlade is a new
+take on power meter designs that has an essentially 2D form factor. Loads
+literally plug-through it and into the outlet. This means PowerBlade can stay
+attached to the load plug itself, truly monitoring an individual device, rather
+than an outlet. Designing a functional power meter with extreme volume
+constraints requires rethinking the traditional power meter design choices.
+PowerBlade employs a simplified AC power supply design, a novel method for
+noninvasively sensing current draw, and a Bluetooth Low-Energy radio to
+transmit data to nearby smartphones. This work was published and demonstrated
+at SenSys 2015.
+
+**Abstract:**  
+We present PowerBlade, the smallest, lowest cost, and lowest
+power AC plug-load meter that measures real, reactive and apparent power, and
+reports this data, along with cumulative energy consumption, over an
+industry-standard Bluetooth Low Energy radio. Achieving this design point
+requires revisiting every aspect of conventional power meters: a new method of
+acquiring voltage; a non-invasive, planar method of current measurement; an
+efficient and accurate method of computing power from the voltage and current
+channels; a radio interface that leverages nearby smart phones to display data
+and report it to the cloud; and a retro power supply re-imagined with vastly
+lower current draw, allowing extreme miniaturization. PowerBlade occupies a
+mere 1" × 1" footprint, offers a 1/16" profile, draws less than 180 mW itself,
+offers 1.13% error on unity power factor loads in the 2-1200 W range and
+slightly worse for non-linear and reactive loads, and costs $11 in modest
+quantities of about 1,000 units. This new design point enables affordable
+large-scale studies of plug-load energy usage—an area of growing national
+importance.
+
+<p>
+<tt>
+<a href="projects/powerblade/debruin15powerblade.pdf">[conference paper]</a>
+<a href="projects/powerblade/debruin15powerblade-demo.pdf">[demo paper]</a>
+</tt>
+</p>
 
 ---
 
@@ -59,7 +102,7 @@ Taking the Monjolo Principle of energy-harvester as a sensor, we created a new
 platform with a heat harvesting thermoelectric generator. This work was
 published at ENSsys 2014.
 
-**Abstract:**
+**Abstract:**  
 Fine-grained energy metering in homes and buildings provides a promising
 technique for addressing the unmaintainable energy consumption levels of
 worldwide buildings. Metering electricity, lighting, natural gas, HVAC,

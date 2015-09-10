@@ -24,19 +24,36 @@ My research focuses on Embedded Systems. I am part of
 [Professor Prabal Dutta](http://web.eecs.umich.edu/~prabal/).
 
 ### News
- * <b>09/2014:</b> I was a guest lecturer for EECS 373
- * <b>05/2014:</b> I won an Outstanding GSI Award for Fall 2013
- * <b>04/2014:</b> I was awarded an NSF GRFP Fellowship
+ * <b>08/2015:</b> PowerBlade won [TI Innovation Challenge 2015](http://e2e.ti.com/group/universityprogram/w/contests/2117.winners-circle#2015_winners) -  Best Environmental Impact
+ * <b>05/2014:</b> Won an Outstanding GSI Award for Fall 2013
+ * <b>04/2014:</b> Awarded an NSF GRFP Fellowship
 
 ### Publications
+**2015**
+
+ 1. ["**PowerBlade: A Low-Profile, True-Power, Plug-Through Energy Meter**"](projects/powerblade/debruin15powerblade.pdf)  
+    Samuel DeBruin, **Branden Ghena**, Ye-Sheng Kuo, and Prabal Dutta  
+    In _Proceedings of the 13th ACM Conference on Embedded Networked Sensor Systems (SenSys'15)_  
+    Seoul, Republic of Korea, November 1-4, 2015  
+
+ 2. ["**Demo: PowerBlade A Low-Profile, True-Power, Plug-Through Energy Meter**"](projects/powerblade/debruin15powerblade-demo.pdf)  
+    Samuel DeBruin, **Branden Ghena**, Ye-Sheng Kuo, and Prabal Dutta  
+    In _Proceedings of the 13th ACM Conference on Embedded Networked Sensor Systems (SenSys'15)_  
+    Seoul, Republic of Korea, November 1-4, 2015  
+
+ 3. ["**Ownership is Theft: Experiences Building an Embedded OS in Rust**"](projects/helena/levy15ownership.pdf)  
+    Amit Levy, Michael P Andersen, Bradford Campbell, David Culler, Prabal Dutta, **Branden Ghena**, Philip Levis, and Pat Pannuto  
+    In _8th Workshop on Programming Languages and Operating Systems (PLOS'15)_  
+    Monterey, CA, USA, October 4, 2015  
+
 **2014**
 
- 1. ["**Energy-Harvesting Thermoelectric Sensing for Unobtrusive Water and Appliance Metering**"](projects\campbell14thermes.pdf)  
-    Brad Campbell, Branden Ghena, and Prabal Dutta  
+ 1. ["**Energy-Harvesting Thermoelectric Sensing for Unobtrusive Water and Appliance Metering**"](projects/thermonjolo/campbell14thermes.pdf)  
+    Brad Campbell, **Branden Ghena**, and Prabal Dutta  
     In _Proceedings of the 2nd International Workshop on Energy Neutral Sensing Systems (ENSsys'14)_  
-    Memphis, TN, November 6, 2014  
+    Memphis, TN, USA, November 6, 2014  
  
- 2. ["**Green Lights Forever: Analyzing the Security of Traffic Infrastructure**"](projects\ghena14green_lights.pdf)  
-    Branden Ghena, William Beyer, Allen Hillaker, Jonathan Pevarnek, and J. Alex Halderman  
+ 2. ["**Green Lights Forever: Analyzing the Security of Traffic Infrastructure**"](projects/green_lists/ghena14green_lights.pdf)  
+    **Branden Ghena**, William Beyer, Allen Hillaker, Jonathan Pevarnek, and J. Alex Halderman  
     In _Proceedings of the 8th USENIX Workshop on Offensive Technologies (WOOT'14)_  
-    San Diego, CA, August 19, 2014  
+    San Diego, CA, USA, August 19, 2014  
