@@ -24,6 +24,8 @@ My research focuses on Embedded Systems. I am part of
 [Professor Prabal Dutta](http://web.eecs.umich.edu/~prabal/).
 
 ### News
+ * <b>08/2016:</b> Check out our website on the [Tock OS project](http://www.tockos.org/)
+ * <b>10/2015:</b> Featured in a Michigan graduate student profile [video](https://www.youtube.com/watch?v=sbth2saT0xk)
  * <b>08/2015:</b> PowerBlade won [TI Innovation Challenge 2015](http://e2e.ti.com/group/universityprogram/w/contests/2117.winners-circle#2015_winners) -  Best Environmental Impact
  * <b>05/2014:</b> Won an Outstanding GSI Award for Fall 2013
  * <b>04/2014:</b> Awarded an NSF GRFP Fellowship

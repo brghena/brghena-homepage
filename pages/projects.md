@@ -9,6 +9,53 @@ Feel free to contact me if you have any questions: brghena@umich.edu
 
 ---
 
+Tock
+----
+Embedded operating systems have traditionally been limited to
+libraries that abstract hardware and implement common utilities. These
+systems provide only limited mechanisms, if any, to ensure the safety
+of drivers and isolate applications. Instead, developers must assume
+that all code is equally trustworthy and bug free.
+
+Tock is a safe, multitasking operating system for memory
+constrained devices. It is written in Rust, a type-safe systems language
+which is used to enforce safety of of kernel components. Tock allows
+applications, which can be written in any language, to be compiled and loaded
+independently from the kernel.
+
+<p>
+<tt>
+<a href="https://github.com/helena-project/tock">[source]</a>
+</tt>
+</p>
+
+A workshop paper on our experiences building an embedded operating system in
+Rust was published at PLOS'15.
+
+**Abstract:**
+Rust, a new systems programming language, provides compile-time memory safety
+checks to help eliminate runtime bugs that manifest from improper memory
+management. This feature is advantageous for operating system development, and
+especially for embedded OS development, where recovery and debugging are
+particularly challenging. However, embedded platforms are highly event-based,
+and Rust’s memory safety mechanisms largely presume threads. In our experience
+developing an operating system for embedded systems in Rust, we have found that
+Rust’s ownership model prevents otherwise safe resource sharing common in the
+embedded domain, conflicts with the reality of hardware resources, and hinders
+using closures for programming asynchronously. We describe these experiences
+and how they relate to memory safety as well as illustrate our workarounds that
+preserve the safety guarantees to the largest extent possible. In addition, we
+draw from our experience to propose a new language extension to Rust that would
+enable it to provide better memory safety tools for event-driven platforms.
+
+<p>
+<tt>
+<a href="projects/tock/levy15ownership.pdf">[workshop paper]</a>
+</tt>
+</p>
+
+---
+
 PowerBlade
 ----------
 With an increasing number of miscellaneous electrical loads used in residential
