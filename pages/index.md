@@ -31,6 +31,18 @@ My research focuses on Embedded Systems. I am part of
  * <b>04/2014:</b> Awarded an NSF GRFP Fellowship
 
 ### Publications
+**2016**
+
+ 1. ["**Demo Abstract: The Signpost Network**"](projects/signpost/adkins16signpost-demo.pdf)  
+    Joshua Adkins, Bradford Campbell, **Branden Ghena**, Neal Jackson, Pat Pannuto, and Prabal Dutta  
+    In _Proceedings of the 14th ACM Conference on Embedded Networked Sensor Systems (SenSys’16)_  
+    Stanford, CA, USA, November 14-15, 2016  
+
+ 2. ["**Demo Abstract: Swarm Gateway**"](projects/gateway/campbell16gateway-demo.pdf)  
+    Bradford Campbell, **Branden Ghena**, Ye-Sheng Kuo, and Prabal Dutta  
+    In _Proceedings of the 3rd ACM International Conference on Systems for Energy-Efficient Built Environments (BuildSys’16)_  
+    Palo Alto, CA, USA, November 16-17, 2016  
+
 **2015**
 
  1. ["**PowerBlade: A Low-Profile, True-Power, Plug-Through Energy Meter**"](projects/powerblade/debruin15powerblade.pdf)  
