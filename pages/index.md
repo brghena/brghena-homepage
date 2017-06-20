@@ -1,7 +1,7 @@
 <table width="700" border="0" cellspacing="0" cellpadding="0">
     <tr>
         <td wdith="0" valign="top" align="left">
-            <img src="images/brghena.jpg" width=200 height=200>
+            <img src="images/branden_ghena.jpg" width=566 height=345>
         </td>
         <td width="25">&nbsp;&nbsp;&nbsp;&nbsp;</td>
         <td width="525" valign="top" align="left">
@@ -42,6 +42,11 @@ My research focuses on Embedded Systems. I am part of
     Bradford Campbell, **Branden Ghena**, Ye-Sheng Kuo, and Prabal Dutta  
     In _Proceedings of the 3rd ACM International Conference on Systems for Energy-Efficient Built Environments (BuildSys’16)_  
     Palo Alto, CA, USA, November 16-17, 2016  
+
+ 3. ["**Perpetual Sensing for the Built Environment**"](projects/powerblade/campbell16perpetual.pdf)  
+    Bradford Campbell, Meghan Clark, Samuel DeBruin, **Branden Ghena**, Neal Jackson, Ye-Sheng Kuo, and Prabal Dutta  
+    In _IEEE Pervasive Computing_  
+    Journal Volume 15, Issue 4, October 2016  
 
 **2015**
 

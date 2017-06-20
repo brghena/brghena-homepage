@@ -104,6 +104,15 @@ importance.
 </tt>
 </p>
 
+This work was also included in a journal paper covering the topic of perpetual
+sensing in the built environment.
+
+<p>
+<tt>
+<a href="projects/powerblade/campbell16perpetual.pdf">[journal paper]</a>
+</tt>
+</p>
+
 ---
 
 Wearabouts
@@ -270,7 +279,7 @@ awareness capabilities. Using spectroscopy, the attitude and configuration of
 a satellite can be determined if it is first characterized on the ground.
 Oculus-ASR has been characterized and has the ability to control and observe
 its orientation and configuration. The Air Force will use our satellite to 
-callibrate their algorithms and enable new advances in space awareness.
+calibrate their algorithms and enable new advances in space awareness.
 
 <p>
 JPL Cubesat Symposium 2013:
