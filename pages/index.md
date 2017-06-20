@@ -21,7 +21,9 @@ Engineering Department.
 
 My research focuses on Embedded Systems. I am part of
 [Lab11](http://lab11.eecs.umich.edu/) and work with
-[Professor Prabal Dutta](http://web.eecs.umich.edu/~prabal/).
+[Professor Prabal Dutta](http://web.eecs.umich.edu/~prabal/).  
+I strongly believe in open-access to research, and you can find software and
+hardware for all of my projects on [Github](http://github.com/lab11).
 
 ### News
  * <b>08/2016:</b> Check out our website on the [Tock OS project](http://www.tockos.org/)
