@@ -19,7 +19,7 @@ I am a PhD student at the University of California, Berkeley in the Electrical
 Engineering and Computer Science department.
 
 My research focuses on Embedded Systems. I am part of
-[Lab11](http://lab11.eecs.umich.edu/) and work with
+[Lab11](http://lab11.eecs.berkeley.edu/) and work with
 [Professor Prabal Dutta](http://web.eecs.umich.edu/~prabal/).  
 I strongly believe in open-access to research, and you can find software and
 hardware for all of my projects on [Github](http://github.com/lab11).
@@ -38,14 +38,16 @@ hardware for all of my projects on [Github](http://github.com/lab11).
 
 ### Publications
 **2018**
-1. ["**The Signpost Platform for City-Scale Sensing**"](projects/signpost/adkins18signpost.pdf)  
-   Joshua Adkins, Branden Ghena, Neal Jackson, Pat Pannuto, Sam Rohrer, Bradford Campbell, and Prabal Dutta  
-   In _Proceedings of the 17th ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN’18)_  
-   Porto, Portugal, April 11-13, 2018  
+
+ 1. ["**The Signpost Platform for City-Scale Sensing**"](projects/signpost/adkins18signpost.pdf)  
+    Joshua Adkins, **Branden Ghena**, Neal Jackson, Pat Pannuto, Sam Rohrer, Bradford Campbell, and Prabal Dutta  
+    In _Proceedings of the 17th ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN’18)_  
+    Porto, Portugal, April 11-13, 2018  
 
 **2017**
+
  1. ["**Energy Isolation Required for Multi-tenant Energy Harvesting Platforms**"](projects/signpost/adkins17energy.pdf)  
-    Joshua Adkins, Bradford Campbell, Branden Ghena, Neal Jackson, Pat Pannuto, and Prabal Dutta  
+    Joshua Adkins, Bradford Campbell, **Branden Ghena**, Neal Jackson, Pat Pannuto, and Prabal Dutta  
     In _Proceedings of the Fifth ACM International Workshop on Energy Harvesting and Energy-Neutral Sensing Systems (ENSsys’17)_  
     Delft, Netherlands, November 5, 2017  
 
