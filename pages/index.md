@@ -57,7 +57,7 @@ hardware for all of my projects on [Github](http://github.com/lab11).
     Shanghai, China, October 28-31, 2017  
 
  4. ["**The Case for Writing a Kernel in Rust**"](projects/tock/levy17rustkernel.pdf)  
-    Amit Levy, Bradfor Campbell, **Branden Ghena**, Pat Pannuto, Prabal Dutta, and Philip Levis  
+    Amit Levy, Bradford Campbell, **Branden Ghena**, Pat Pannuto, Prabal Dutta, and Philip Levis  
     In _Proceedings of the 8th Asia-Pacific Workshop on Systems (APSys’17)_  
     Bombay, India, September 2-3, 2017  
 
