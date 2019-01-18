@@ -3,18 +3,18 @@ SHELL := /bin/bash
 all:
 	./website.py
 	$(MAKE) -C cv
-	mkdir -p html/cv/
-	cp -r cv/*.pdf html/cv/
+	mkdir -p docs/cv/
+	cp -r cv/*.pdf docs/cv/
 
 local:	all
-	pushd html && python3 -m http.server 8000; popd
+	pushd docs && python3 -m http.server 8000; popd
 
 deploy:	all
-	scp -r html/* brghena@web.eecs.umich.edu:~/public_html/
-	scp -r html/* brghena@login.eecs.berkeley.edu:~/public_html/
+	scp -r docs/* brghena@web.eecs.umich.edu:~/public_html/
+	scp -r docs/* brghena@login.eecs.berkeley.edu:~/public_html/
 
 clean: 
-	rm -rf html/
+	rm -rf docs/
 	rm -rf __pycache__
 	$(MAKE) -C cv clean
 
