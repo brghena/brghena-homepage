@@ -1,0 +1,306 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- vim: set ts=2 sts=2 sw=2 noet: -->
+<html lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+	<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+	<link href="css/topmargin.css" rel="stylesheet" type="text/css"/>
+	<link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+
+	<script type="text/javascript" src="js/jquery-2.1.0.min.js"></script>
+	<script type="text/javascript" src="js/jquery.autoheight.js"></script>
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+
+	<title>Branden Ghena</title>
+</head>
+
+<body>
+
+<div id="wrap">
+	<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+		<div class="container">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="index.html">Branden Ghena</a>
+			</div> <!-- navbar-header -->
+
+			<div class="collapse navbar-collapse navbar-ex1-collapse">
+				<ul class="nav navbar-nav">
+					<li ><a href="index.html">Home</a></li>
+					<li ><a href="cv/ghena.pdf">CV</a></li>
+					<li class="active"><a href="projects.html">Projects</a></li>
+					<li ><a href="talks.html">Talks</a></li>
+					<li ><a href="teaching.html">Teaching</a></li>
+					<!--<li ><a href="misc.html">Misc</a></li>-->
+				</ul>
+
+				<ul class="nav navbar-nav navbar-right">
+					<li><a href="https://github.com/brghena"><i class="fa fa-github-square"></i> Github</a></li>
+				</ul>
+			</div>
+		</div> <!-- container -->
+	</nav>
+
+	<div class="container" id="main-content">
+		<h1>Projects</h1>
+<p>My research focuses on embedded systems. It is the kind of field
+where you debug software with an oscilloscope. Of particular interest to me
+are low-level architectures and system interfaces.</p>
+<p>Feel free to contact me if you have any questions: brghena@umich.edu</p>
+<hr />
+<h2>Tock</h2>
+<p>Embedded operating systems have traditionally been limited to
+libraries that abstract hardware and implement common utilities. These
+systems provide only limited mechanisms, if any, to ensure the safety
+of drivers and isolate applications. Instead, developers must assume
+that all code is equally trustworthy and bug free.</p>
+<p>Tock is a safe, multitasking operating system for memory
+constrained devices. It is written in Rust, a type-safe systems language
+which is used to enforce safety of of kernel components. Tock allows
+applications, which can be written in any language, to be compiled and loaded
+independently from the kernel.</p>
+<p>
+<tt>
+<a href="https://github.com/helena-project/tock">[source]</a>
+</tt>
+</p>
+
+<p>A workshop paper on our experiences building an embedded operating system in
+Rust was published at PLOS'15.</p>
+<p><strong>Abstract:</strong>
+Rust, a new systems programming language, provides compile-time memory safety
+checks to help eliminate runtime bugs that manifest from improper memory
+management. This feature is advantageous for operating system development, and
+especially for embedded OS development, where recovery and debugging are
+particularly challenging. However, embedded platforms are highly event-based,
+and Rust’s memory safety mechanisms largely presume threads. In our experience
+developing an operating system for embedded systems in Rust, we have found that
+Rust’s ownership model prevents otherwise safe resource sharing common in the
+embedded domain, conflicts with the reality of hardware resources, and hinders
+using closures for programming asynchronously. We describe these experiences
+and how they relate to memory safety as well as illustrate our workarounds that
+preserve the safety guarantees to the largest extent possible. In addition, we
+draw from our experience to propose a new language extension to Rust that would
+enable it to provide better memory safety tools for event-driven platforms.</p>
+<p>
+<tt>
+<a href="projects/tock/levy15ownership.pdf">[workshop paper]</a>
+</tt>
+</p>
+
+<hr />
+<h2>PowerBlade</h2>
+<p>With an increasing number of miscellaneous electrical loads used in residential
+and commercial buildings, understanding electricity usage patterns requires
+metering every load. Existing plug-load power meters are bulky, power-hungry,
+and require manual user interaction to record energy use. PowerBlade is a new
+take on power meter designs that has an essentially 2D form factor. Loads
+literally plug-through it and into the outlet. This means PowerBlade can stay
+attached to the load plug itself, truly monitoring an individual device, rather
+than an outlet. Designing a functional power meter with extreme volume
+constraints requires rethinking the traditional power meter design choices.
+PowerBlade employs a simplified AC power supply design, a novel method for
+noninvasively sensing current draw, and a Bluetooth Low-Energy radio to
+transmit data to nearby smartphones. This work was published and demonstrated
+at SenSys 2015.</p>
+<p>
+<tt>
+<a href="https://github.com/lab11/powerblade">[source]</a>
+<a href="https://youtu.be/oNUXhCDnHoE">[video]</a>
+</tt>
+</p>
+
+<p><strong>Abstract:</strong><br />
+We present PowerBlade, the smallest, lowest cost, and lowest
+power AC plug-load meter that measures real, reactive and apparent power, and
+reports this data, along with cumulative energy consumption, over an
+industry-standard Bluetooth Low Energy radio. Achieving this design point
+requires revisiting every aspect of conventional power meters: a new method of
+acquiring voltage; a non-invasive, planar method of current measurement; an
+efficient and accurate method of computing power from the voltage and current
+channels; a radio interface that leverages nearby smart phones to display data
+and report it to the cloud; and a retro power supply re-imagined with vastly
+lower current draw, allowing extreme miniaturization. PowerBlade occupies a
+mere 1" × 1" footprint, offers a 1/16" profile, draws less than 180 mW itself,
+offers 1.13% error on unity power factor loads in the 2-1200 W range and
+slightly worse for non-linear and reactive loads, and costs $11 in modest
+quantities of about 1,000 units. This new design point enables affordable
+large-scale studies of plug-load energy usage—an area of growing national
+importance.</p>
+<p>
+<tt>
+<a href="projects/powerblade/debruin15powerblade.pdf">[conference paper]</a>
+<a href="projects/powerblade/debruin15powerblade-demo.pdf">[demo paper]</a>
+</tt>
+</p>
+
+<p>This work was also included in a journal paper covering the topic of perpetual
+sensing in the built environment.</p>
+<p>
+<tt>
+<a href="projects/powerblade/campbell16perpetual.pdf">[journal paper]</a>
+</tt>
+</p>
+
+<hr />
+<h2>Wearabouts</h2>
+<p><strong>"Who's in lab?"</strong></p>
+<p>This is a harder question to answer than it may seem. Determining the location of
+individuals indoors remains an unsolved problem.</p>
+<p>The goal of Wearabouts is to perform room-level localization of individuals.
+The expected output would include each discovered individual and
+which room they have been found in.
+An important piece of the design is to not require individuals to carry any
+extra devices. We want to use only things they already carry and
+characteristics of who they are to discover them. Currently, the system uses
+Bluetooth Low-Energy advertisements from devices like
+<a href="https://www.fitbit.com/">Fitbits</a> to discover people and adds information from
+RFID door entry and smartphone WiFi connections to increase its accuracy.</p>
+<p>
+<tt>
+<a href="http://inductor.eecs.umich.edu/whereabouts.html">[demo]</a>
+<a href="https://github.com/lab11/whereabouts">[source]</a>
+</tt>
+</p>
+
+<p>
+Terraswarm Annual Meeting 2014:
+<br>
+<tt>
+<a href="projects/whereabouts/wearabouts_terraswarmAnnual.pdf">[poster]</a>
+</tt>
+</p>
+
+<p>
+Terraswarm Localization Workshop 2014:
+<br>
+<tt>
+<a href="projects/whereabouts/whereabouts_terraswarmLocalization.pdf">[poster]</a>
+<a href="projects/whereabouts/whereabouts.pptx">[presentation]</a>
+</tt>
+</p>
+
+<hr />
+<h2>Thermes</h2>
+<p>Taking the Monjolo Principle of energy-harvester as a sensor, we created a new
+platform with a heat harvesting thermoelectric generator. This work was
+published at ENSsys 2014.</p>
+<p><strong>Abstract:</strong><br />
+Fine-grained energy metering in homes and buildings provides a promising
+technique for addressing the unmaintainable energy consumption levels of
+worldwide buildings. Metering electricity, lighting, natural gas, HVAC,
+occupancy, and water on a per appliance or room basis can provide invaluable insight
+when trying to reduce a building's energy footprint. A myriad of sensor designs
+and systems collect data on particular building aspects, but are often hampered
+by installation difficulty or ongoing maintenance needs (like battery
+replacement). We address these common pitfalls for water and heat metering by
+developing a small, energy-harvesting sensor that meters using the same
+thermoelectric generator with which it powers itself. In short, the rate at which
+the harvester captures energy is proportional to the heat production of the
+monitored appliance or pipe and this relationship allows us to estimate energy use
+simply based on the sensor's ability to harvest. We prototype our sensor in a
+bracelet shaped form-factor that can attach to a shower head pipe, faucet, or
+appliance to provide local hot water or heat metering.</p>
+<p>
+<tt>
+<a href="projects/thermonjolo/campbell14thermes.pdf">[paper]</a>
+<a href="projects/thermonjolo/campbell14thermes.pptx">[presentation]</a>
+</tt>
+</p>
+
+<hr />
+<h2>Green Lights Forever</h2>
+<p>Starting as a course project in
+<a href="https://www.eecs.umich.edu/courses/eecs588/">EECS 588</a>, a group of three other
+students and I investigated the security of an intelligent traffic light system
+in the United States. This work was published at WOOT 2014.</p>
+<p><strong>Abstract:</strong><br />
+The safety critical nature of traffic infrastructure requires that it
+be secure against computer-based attacks, but this is not always the case.
+We investigate a networked traffic signal system currently deployed in the
+United States and discover a number of security flaws that exist due to
+systemic failures by the designers. We leverage these flaws to create attacks
+which gain control of the system, and we successfully demonstrate them on the
+deployment in coordination with authorities. Our attacks show that an
+adversary can control traffic infrastructure to cause disruption, degrade
+safety, or gain an unfair advantage. We make recommendations on how to improve
+existing systems and discuss the lessons learned for embedded systems security
+in general.</p>
+<p>
+<tt>
+<a href="projects/green_lights/ghena14green_lights.pdf">[paper]</a>
+<a href="projects/green_lights/ghena14green_lights.pptx">[presentation]</a>
+</tt>
+</p>
+
+<hr />
+<h2>NSF Fellowship</h2>
+<p>In my 2013 I applied to the NSF Graduate Research
+Fellowship Program and was lucky enough to be awarded a fellowship. This was
+the first year with the new essay rules that reduce the application to two
+essays, Background &amp; Previous Research and Proposed Research, a total of five
+pages. Below, I have provided my essays as well as the reviews I received as
+examples for other students applying to the program.</p>
+<p>
+<tt>
+<a href="projects/fellowships/nsf_background_prevResearch.pdf">[background and previous research]</a>
+<a href="projects/fellowships/nsf_propResearch.pdf">[proposed research]</a>
+<a href="projects/fellowships/nsf_reviews.pdf">[reviews]</a>
+</tt>
+</p>
+
+<hr />
+<h2>SensEye</h2>
+<p>The eyes are the window to the soul. What could a computer do if it knew what
+you were looking at?</p>
+<p>SensEye is an attempt to start answering that question. Low-power real-time
+gaze detection is finally within our grasp. Using a microcontroller running
+uCLinux and an FPGA, we can pull real-time images from two small cameras, one
+facing inwards towards the eye and one facing outwards towards the world. This
+data can be used to determine which object in view you are observing. Imagine
+a world where your car would warn you if you were not paying attention, where
+your phone would have interesting information available on the item you were
+just observing, and where you could track how you actually spend your time each
+day.</p>
+<p>In order to achieve this goal, our system has to be both energy efficient and 
+low cost. We hope to create such a system and distribute it to software
+developers in order to spur innovation.</p>
+<p>
+<tt>
+<a href="https://github.com/lab11/SensEye-2">[source]</a>
+</tt>
+</p>
+
+<hr />
+<h2>Oculus-ASR</h2>
+<p>During my undergraduate studies at Michigan Tech I was part of the
+<a href="http://www.aerospace.mtu.edu/">Aerospace Enterprise</a>, a group of students 
+building a nanosatellite as part of the University Nanosatellite Program. We
+won the 6th iteration of the competition and have been finalizing flight
+hardware. The mission is set to launch using the Falcon Heavy on mission STP-2.</p>
+<p>The purpose of the satellite is to help test United States' space situational
+awareness capabilities. Using spectroscopy, the attitude and configuration of
+a satellite can be determined if it is first characterized on the ground.
+Oculus-ASR has been characterized and has the ability to control and observe
+its orientation and configuration. The Air Force will use our satellite to 
+calibrate their algorithms and enable new advances in space awareness.</p>
+<p>
+JPL Cubesat Symposium 2013:
+<br>
+<tt>
+<a href="projects/nanosat/Oculus_ASR_Nanosatellite_JPL.pptx">[presentation]</a>
+</tt>
+</p>
+	</div>
+
+</div> <!-- wrap -->
+
+</body>
+</html>
