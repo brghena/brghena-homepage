@@ -18,7 +18,7 @@ def md_to_html(path, md_file):
 	page = os.path.splitext(md_file)[0]
 	with open('docs/{}.html'.format(page), 'w') as o:
 		logger.info('Processing ' + md_file)
-		content = markdown.markdown(open(os.path.join(path, md_file)).read())
+		content = markdown.markdown(open(os.path.join(path, md_file)).read(), extensions=['toc'])
 		o.write(header_tmpl.render(active_page=page, content=content))
 
 for md in os.listdir('pages'):
@@ -46,7 +46,7 @@ for dirpath,dirnames,filenames in os.walk('static'):
 			if ext in [
 					'.css', '.js', '.ttf', '.eot', '.svg', '.woff', '.png',
 					'.pdf', '.pptx', '.doc', '.txt', '.gz', '.tgz', '.jpg', 
-					]:
+					] or filename in ['CNAME', 'favicon.ico']:
 				# These do not need to be compiled in any way
 				# Just copy them
 				cp(spath, dpath)
