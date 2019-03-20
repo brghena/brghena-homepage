@@ -42,6 +42,7 @@ Selected Projects:
 ---
 
 ### News
+ * <b>03/2019:</b> Won the Outstanding Graduate Student Instructor Award for Fall 2018
  * <b>04/2018:</b> Signpost wins best demo runner up at IPSN 2018
  * <b>11/2017:</b> Ran a tutorial session on Tock at [SenSys 2017](https://www.tockos.org/events/sensys2017)
  * <b>09/2017:</b> Moved to the University of California, Berkeley to continue my PhD studies

@@ -23,7 +23,8 @@ systems concepts they've learned in the course. Projects from Fall 2018
 included gloves that played musical notes as you moved the fingers, Kinect
 motion controls for coordinating swarms of robots, and tracking interactions
 with a steering wheel to display accurate information in a virtual reality
-headset.
+headset. I won an Outstanding GSI Award from UC Berkeley for my work in the
+course.
 
 For this semester, we redesigned all of the labs from scratch to focus on
 command line embedded tools (GCC cross compiling, Make, and JTAG code upload)
