@@ -4,7 +4,7 @@ Publications
 
  1. ["**Freeloader's Guide Through the Google Galaxy**"](projects/ble/adkins19freeloader.pdf)  
     Joshua Adkins, **Branden Ghena**, and Prabal Dutta  
-    In _The 20th International Workshop on Mobile Computing Systems and Applications (HotMobile'19_  
+    In _The 20th International Workshop on Mobile Computing Systems and Applications (HotMobile'19)_  
     Santa Cruz, CA, USA, February 27-28, 2019  
 
 **2018**
@@ -16,24 +16,25 @@ Publications
 
  2. ["**The Signpost Platform for City-Scale Sensing**"](projects/signpost/adkins18signpost.pdf)  
     Joshua Adkins, **Branden Ghena**, Neal Jackson, Pat Pannuto, Sam Rohrer, Bradford Campbell, and Prabal Dutta  
-    In _Proceedings of the 17th ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN’18)_  
+    In _Proceedings of the 17th ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN'18)_  
     Porto, Portugal, April 11-13, 2018  
 
  3. ["**Demo Abstract: Applications on the Signpost Platform for City-Scale Sensing**"](projects/signpost/adkins18signpostdemo.pdf)  
     Joshua Adkins, **Branden Ghena**, Neal Jackson, Pat Pannuto, Sam Rohrer, Bradford Campbell, and Prabal Dutta  
-    In _Proceedings of the 17th ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN’18)_  
+    In _Proceedings of the 17th ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN'18)_  
     Porto, Portugal, April 11-13, 2018  
+    Awarded "Runner-Up Best Demo"
 
 **2017**
 
  1. ["**Energy Isolation Required for Multi-tenant Energy Harvesting Platforms**"](projects/signpost/adkins17energy.pdf)  
     Joshua Adkins, Bradford Campbell, **Branden Ghena**, Neal Jackson, Pat Pannuto, and Prabal Dutta  
-    In _Proceedings of the Fifth ACM International Workshop on Energy Harvesting and Energy-Neutral Sensing Systems (ENSsys’17)_  
+    In _Proceedings of the Fifth ACM International Workshop on Energy Harvesting and Energy-Neutral Sensing Systems (ENSsys'17)_  
     Delft, Netherlands, November 5, 2017  
 
  2. ["**Multiprogramming a 64 kB Computer Safely and Efficiently**"](projects/tock/levy17multiprogramming.pdf)  
     Amit Levy, Bradford Campbell, **Branden Ghena**, Daniel B. Giffin, Pat Pannuto, Prabal Dutta, and Philip Levis  
-    In _Proceedings of the 26th Symposium on Operating Systems Principles (SOSP’17)_  
+    In _Proceedings of the 26th Symposium on Operating Systems Principles (SOSP'17)_  
     Shanghai, China, October 28-31, 2017  
 
  3. ["**Signpost: A Roadmap for City-Scale Sensing**"](projects/signpost/signpost-roadmap-techcon.pdf)  
@@ -44,19 +45,19 @@ Publications
 
  4. ["**The Case for Writing a Kernel in Rust**"](projects/tock/levy17rustkernel.pdf)  
     Amit Levy, Bradford Campbell, **Branden Ghena**, Pat Pannuto, Prabal Dutta, and Philip Levis  
-    In _Proceedings of the 8th Asia-Pacific Workshop on Systems (APSys’17)_  
+    In _Proceedings of the 8th Asia-Pacific Workshop on Systems (APSys'17)_  
     Bombay, India, September 2-3, 2017  
 
 **2016**
 
  1. ["**Demo Abstract: The Signpost Network**"](projects/signpost/adkins16signpost-demo.pdf)  
     Joshua Adkins, Bradford Campbell, **Branden Ghena**, Neal Jackson, Pat Pannuto, and Prabal Dutta  
-    In _Proceedings of the 14th ACM Conference on Embedded Networked Sensor Systems (SenSys’16)_  
+    In _Proceedings of the 14th ACM Conference on Embedded Networked Sensor Systems (SenSys'16)_  
     Stanford, CA, USA, November 14-15, 2016  
 
  2. ["**Demo Abstract: Swarm Gateway**"](projects/gateway/campbell16gateway-demo.pdf)  
     Bradford Campbell, **Branden Ghena**, Ye-Sheng Kuo, and Prabal Dutta  
-    In _Proceedings of the 3rd ACM International Conference on Systems for Energy-Efficient Built Environments (BuildSys’16)_  
+    In _Proceedings of the 3rd ACM International Conference on Systems for Energy-Efficient Built Environments (BuildSys'16)_  
     Palo Alto, CA, USA, November 16-17, 2016  
 
  3. ["**Perpetual Sensing for the Built Environment**"](projects/powerblade/campbell16perpetual.pdf)  
