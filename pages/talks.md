@@ -1,6 +1,23 @@
 Talks
 =====
 
+2019
+----
+### 1st International Workshop on Next-Generation Operating Systems for Cyber-Physical Systems
+At NGOSCPS, I presented our workshop paper on the distributed systems
+primitives that embedded operating systems need to support. The focus was on
+the factors that are causing multi-microcontroller platforms to exist as a
+design pattern, and the challenges that those designs face. The talk (and
+paper) then proposes several primitives that the OS should provide to support
+these systems and discusses how these needs differ from traditional distributed
+systems.
+
+<p>
+<tt>
+<a href="projects/tock/ngoscps19_distributed_presentation.pdf">[presentation]</a>
+</tt>
+</p>
+
 2017
 ----
 ### 5th International Workshop on Energy Harvesting and Energy-Neutral Sensing Systems
