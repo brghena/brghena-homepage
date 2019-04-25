@@ -23,6 +23,12 @@ as well as embedded operating systems. I am part of
 <a href="https://lab11.eecs.berkeley.edu/">Lab11</a> and work with
 <a href="https://web.eecs.umich.edu/~prabal/">Prabal Dutta</a>.
 </p>
+<p style="font-size:16px">
+Summer 2019 I am teaching <a href="https://cs61c.org">CS61C</a> "Great Ideas in
+Computer Architecture (Machine Structures)". The course covers Assembly,
+Pipelined Processors, Caches, and Parallelism.
+</p>
+
 <p>&nbsp;</p>
 
 <p style="font-size:16px">
