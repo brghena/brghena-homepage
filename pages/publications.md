@@ -2,7 +2,12 @@ Publications
 ============
 **2019**
 
- 1. ["**Freeloader's Guide Through the Google Galaxy**"](projects/ble/adkins19freeloader.pdf)  
+ 1. ["**Embedded OSes Must Embrace Distributed Computing**"](projects/tock/ghena19distributed.pdf)  
+    **Branden Ghena**, Jean-Luc Watson, and Prabal Dutta  
+    In _The 1st International Workshop on Next-Generation Operation Systems for Cyber-Physical Systems (NGOSCPS'19)_  
+    Montreal, Canada, April 15, 2019  
+
+ 2. ["**Freeloader's Guide Through the Google Galaxy**"](projects/ble/adkins19freeloader.pdf)  
     Joshua Adkins, **Branden Ghena**, and Prabal Dutta  
     In _The 20th International Workshop on Mobile Computing Systems and Applications (HotMobile'19)_  
     Santa Cruz, CA, USA, February 27-28, 2019  
