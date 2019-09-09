@@ -24,9 +24,9 @@ as well as embedded operating systems. I am part of
 <a href="https://web.eecs.umich.edu/~prabal/">Prabal Dutta</a>.
 </p>
 <p style="font-size:16px">
-I am teaching <a href="https://cs61c.org">CS61C</a> "Great Ideas in Computer
-Architecture (Machine Structures)" at UC Berkeley in summer 2019. The course
-covers Assembly, Pipelined Processors, Caches, and Parallelism.
+I taught <a href="https://inst.eecs.berkeley.edu/~cs61c/su19/">CS61C</a> "Great
+Ideas in Computer Architecture" at UC Berkeley in summer 2019. The course
+covered Assembly, Pipelined Processors, Caches, and Parallelism.
 </p>
 
 <p>&nbsp;</p>
@@ -62,6 +62,10 @@ Selected Projects:
  * <b>09/2013:</b> Began my PhD studies at the University of Michigan
 
 ### Selected Publications
+
+["**Challenge: Unlicensed LPWANs Are Not Yet the Path to Ubiquitous Connectivity**"](projects/lpwan/ghena19lpwans.pdf)  
+**Branden Ghena**, Joshua Adkins, Longfei Shangguan, Kyle Jamieson, Philip Levis, and Prabal Dutta  
+In _Proceedings of the 25th Annual International Conference on Mobile Computing and Networking (MobiCom'19)_  
 
 ["**The Signpost Platform for City-Scale Sensing**"](projects/signpost/adkins18signpost.pdf)  
 Joshua Adkins, **Branden Ghena**, Neal Jackson, Pat Pannuto, Sam Rohrer, Bradford Campbell, and Prabal Dutta  

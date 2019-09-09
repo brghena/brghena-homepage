@@ -43,13 +43,23 @@ space with LTE-M and NB-IoT rolling out globally. Our researcher focuses on how
 well these technologies will support future application needs and how IoT
 devices will need to adapt in order to make use of them.
 
-This work so far has resulted in an overview of the existing technologies and
+This work initially resulted in an overview of the existing technologies and
 their applicability to various applications created in collaboration with a
 project with Ford.
 
 <p>
 <tt>
 <a href="https://docs.google.com/presentation/d/1kZ0rFL1Ra5rBfM7lkH7w5Um_281uoM94FR4VJqxXEBo/edit?usp=sharing">[LPWAN Overview Slides]</a>
+</tt>
+</p>
+
+Further efforts led to a paper presented at MobiCom'19 which demonstrates the
+need to improve unlicensed LPWANs if they are to compete with cellular
+technologies.
+
+<p>
+<tt>
+<a href="projects/lpwan/ghena19lpwans.pdf">[MobiCom'19 Conference Paper]</a>
 </tt>
 </p>
 

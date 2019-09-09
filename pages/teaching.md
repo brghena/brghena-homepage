@@ -9,16 +9,26 @@ experience of engineering.
 
 ---
 
-Instructor - Great Ideas in Computer Architecture (Machine Structures):
------------------------------------------------------------------------
+Instructor - Great Ideas in Computer Architecture:
+--------------------------------------------------
 
 In Summer 2019, I had the opportunity to be an instructor for the introductory
-computer architecture / computer organization class at Berkeley, CS61C. The
+computer architecture and computer organization class at Berkeley, CS61C. The
 course is the first hardware class that many computer science students take and
-covers assembly, basic processors design, caches, and parallelism.
+covers assembly, pipelined processor design, caches, and parallelism. I
+presented material on RISC-V assembly, digital logic, data-level and
+thread-level parallelism, and I/O.
+
+As a summer course, we covered the material at double speed (8 weeks for a
+normally 16-week course), and the course had approximately 200 students
+enrolled, with one third of the population international students. We also had
+a large course staff to help with the load: three instructors, eight teaching
+assistants, eight tutors, and ten academic interns. Managing this staff and
+making sure that the course progressed smoothly was a great learning experience
+for me.
 
 <tt>
-[[Course Website]](https://cs61c.org)
+[[Course Website]](https://inst.eecs.berkeley.edu/~cs61c/su19/)
 </tt>
 
 ---
@@ -152,8 +162,9 @@ topics.
 
 <tt>
 <ul>
-    <li><a href="teaching/ee149/0x_Networking.pdf">[Networking]</a></li>
-    <li><a href="teaching/ee149/09_MemoryArchitectures.pdf">[Memory Architectures]</a></li>
+    <li><a href="teaching/ee149/0x_Networking_2017.pdf">[Networking (2017)]</a></li>
+    <li><a href="teaching/ee149/09_MemoryArchitectures_2018.pdf">[Memory Architectures (2018)]</a></li>
+    <li><a href="teaching/ee149/09_MemoryArchitectures_2019.pdf">[Memory Architectures (2019)]</a></li>
 </ul>
 </tt>
 
