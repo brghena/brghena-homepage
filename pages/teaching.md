@@ -121,11 +121,12 @@ Undergraduate Research:
 -----------------------
 
 At Michigan and at Berkeley I was proud to support undergraduate research. At
-Michigan I advised seven undergraduates and two high school students for
+Michigan I advised nine undergraduates and two high school students for
 positions either during the summer or the school year. Four of these students
 have since gone on to pursue PhDs in computer science. At UC Berkeley, six
 students from the Introduction to Embedded Systems class were inspired to
-pursue research with our lab group after the course ended.
+pursue research with our lab group after the course ended and another two
+from CS61C the year after.
 
 ---
 
