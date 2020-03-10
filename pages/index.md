@@ -48,6 +48,7 @@ Selected Projects:
 ---
 
 ### News
+ * <b>03/2020:</b> Accepted a position at Northwestern as assistant professor of instruction starting in fall
  * <b>03/2019:</b> Won the Outstanding Graduate Student Instructor Award for Fall 2018
  * <b>04/2018:</b> Signpost wins best demo runner up at IPSN 2018
  * <b>11/2017:</b> Ran a tutorial session on Tock at [SenSys 2017](https://www.tockos.org/events/sensys2017)
