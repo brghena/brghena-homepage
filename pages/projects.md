@@ -18,11 +18,19 @@ are capable of supporting various Internet of Things communication needs. My
 research covers several systems areas including networking and operating
 systems.
 </p>
+<p 
+
+<p style="font-size:16px">
+During grad school I was part of <a
+href="https://lab11.eecs.berkeley.edu/">Lab11</a> and advised by <a
+href="https://web.eecs.umich.edu/~prabal/">Prabal Dutta</a>.
+
 <p style="font-size:16px">
 An extremely important part of publicly funded research is making results
 available to the public. I strongly believe in open-access to research and you
-can find all my papers provided on this website and all of the software and 
-hardware for my projects on <a href="https://github.com/lab11">Github</a>.
+can find all my papers provided on this website and all of the software and
+hardware for my grad school projects on <a
+href="https://github.com/lab11">Github</a>.
 </p>
 
         </td>

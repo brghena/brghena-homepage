@@ -1,35 +1,41 @@
 <table border="0" cellspacing="0" cellpadding="0">
     <tr>
         <td valign="top" align="left">
-            <img src="images/branden_crossed.jpg" height="400">
+            <img src="images/branden_crossed.jpg" height="470">
         </td>
         <td width="25">&nbsp;&nbsp;&nbsp;&nbsp;</td>
         <td valign="top" align="left">
 
 <h2>Branden Ghena</h2>
 
-<p style="font-size:16px">brghena@berkeley.edu</p>
-<p style="font-size:16px">545 Cory Hall
-<br>Berkeley, CA 94720</p>
-<p>&nbsp;</p>
+<p style="font-size:16px">branden@northwestern.edu</p>
+<p style="font-size:16px">TBD Mudd Hall
+<br>Evanston, IL 60208
+</p>
+<br>
 
 <p style="font-size:16px">
-I am a PhD student at the University of California, Berkeley in the Electrical
-Engineering and Computer Science department.
-<p style="font-size:16px">
-My research area is resource-constrained embedded systems. Particularly my
-interests lie in low-power networking protocols such as BLE, LoRaWAN, and LTE-M
-as well as embedded operating systems. I am part of
-<a href="https://lab11.eecs.berkeley.edu/">Lab11</a> and work with
-<a href="https://web.eecs.umich.edu/~prabal/">Prabal Dutta</a>.
+I am an Assistant Faculty of Instruction at Northwestern University in the
+Computer Science Department.
 </p>
 <p style="font-size:16px">
-I taught <a href="https://inst.eecs.berkeley.edu/~cs61c/su19/">CS61C</a> "Great
-Ideas in Computer Architecture" at UC Berkeley in summer 2019. The course
-covered Assembly, Pipelined Processors, Caches, and Parallelism.
+I was previously a:
+<ul>
+<li style="font-size:16px">PhD student at the University of California, Berkeley in EECS</li>
+<li style="font-size:16px">PhD student at the University of Michigan in CSE</li>
+<li style="font-size:16px">Undergraduate at Michigan Technological University in ECE</li>
+</ul>
 </p>
+<br>
 
-<p>&nbsp;</p>
+<p style="font-size:16px">
+Fall 2020 I am teaching:
+<ul>
+<li style="font-size:16px"><b>CS213:</b> Introduction to Computer Systems (co-teaching with Peter Dinda)</li>
+<li style="font-size:16px"><b>CS343:</b> Operating Systems</li>
+</ul>
+</p>
+<br>
 
 <p style="font-size:16px">
 Selected Projects:
@@ -48,7 +54,8 @@ Selected Projects:
 ---
 
 ### News
- * <b>03/2020:</b> Accepted a position at Northwestern as assistant professor of instruction starting in fall
+ * <b>08/2020:</b> Graduated from UC Berkeley!
+ * <b>03/2020:</b> Accepted a position at Northwestern as assistant professor of instruction starting Fall 2020
  * <b>03/2019:</b> Won the Outstanding Graduate Student Instructor Award for Fall 2018
  * <b>04/2018:</b> Signpost wins best demo runner up at IPSN 2018
  * <b>11/2017:</b> Ran a tutorial session on Tock at [SenSys 2017](https://www.tockos.org/events/sensys2017)
