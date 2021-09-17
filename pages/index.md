@@ -10,7 +10,7 @@
 
 (BRAN-duhn JEE-nuh, he/him)
 <p style="font-size:16px">branden@northwestern.edu</p>
-<p style="font-size:16px">TBD Mudd Hall
+<p style="font-size:16px">3305 Mudd Hall
 <br>Evanston, IL 60208
 </p>
 <br>
@@ -30,9 +30,9 @@ I was previously a:
 <br>
 
 <p style="font-size:16px">
-Spring 2021 I am teaching:
+Fall 2021 I am teaching:
 <ul>
-<li style="font-size:16px"><b>CS213:</b> Intro to Computer Systems</li>
+<li style="font-size:16px"><b>CS211:</b> Fundamentals of Computer Programming II</li>
 <li style="font-size:16px"><b>CE346:</b> Microprocessor System Design</li>
 </ul>
 </p>

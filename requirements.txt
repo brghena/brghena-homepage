@@ -1,0 +1,4 @@
+sh
+jinja2
+markdown
+colorlog
