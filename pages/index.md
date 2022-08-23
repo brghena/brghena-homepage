@@ -16,7 +16,7 @@
 <br>
 
 <p style="font-size:16px">
-I am an Assistant Faculty of Instruction at Northwestern University in the
+I am an Assistant Professor of Instruction at Northwestern University in the
 Computer Science Department.
 </p>
 <p style="font-size:16px">
@@ -30,10 +30,10 @@ I was previously a:
 <br>
 
 <p style="font-size:16px">
-Spring 2022 I am teaching:
+Fall 2022 I am teaching:
 <ul>
-<li style="font-size:16px"><b>CS343:</b> Operating Systems</li>
-<li style="font-size:16px"><b>CS397/497:</b> Wireless Protocols for the Internet of Things</li>
+<li style="font-size:16px"><a href="https://brghena.github.io/courses/cs343/"><b>CS343:</b> Operating Systems</a></li>
+<li style="font-size:16px"><a href="https://brghena.github.io/courses/ce346/"><b>CE346:</b> Microprocessor System Design</a></li>
 </ul>
 </p>
 <br>
@@ -41,10 +41,10 @@ Spring 2022 I am teaching:
 <p style="font-size:16px">
 Selected Projects:
 <tt>
+<a href="/projects.html#tock">[Tock]</a>
 <a href="/projects.html#low-power-wide-area-networking">[LPWAN]</a>
 <a href="/projects.html#ble-networking">[BLE]</a>
 <a href="/projects.html#signpost">[Signpost]</a>
-<a href="/projects.html#tock">[Tock]</a>
 </tt>
 </p>
 
@@ -55,20 +55,23 @@ Selected Projects:
 ---
 
 ### News
+ * <b>06/2022:</b> Won the CS Instructor of the Year award at Northwestern
+ * <b>06/2021:</b> Survived first year of teaching!
+ * <b>09/2020:</b> Started as assistant teaching faculty at Northwestern
  * <b>08/2020:</b> Graduated from UC Berkeley!
  * <b>03/2020:</b> Accepted a position at Northwestern as assistant professor of instruction starting Fall 2020
  * <b>03/2019:</b> Won the Outstanding Graduate Student Instructor Award for Fall 2018
  * <b>04/2018:</b> Signpost wins best demo runner up at IPSN 2018
- * <b>11/2017:</b> Ran a tutorial session on Tock at [SenSys 2017](https://www.tockos.org/events/sensys2017)
- * <b>09/2017:</b> Moved to the University of California, Berkeley to continue my PhD studies
- * <b>08/2017:</b> Ran a tutorial session on Tock at [Rustconf 2017](https://www.tockos.org/events/rustconf2017)
- * <b>03/2017:</b> Hosted a tutorial session on [using Signpost](https://github.com/lab11/signpost-software/blob/master/docs/TutorialSession.md)
- * <b>08/2016:</b> Check out our website on the [Tock OS project](http://www.tockos.org/)
- * <b>10/2015:</b> Featured in a Michigan graduate student profile [video](https://www.youtube.com/watch?v=sbth2saT0xk)
- * <b>08/2015:</b> PowerBlade won [TI Innovation Challenge 2015](http://e2e.ti.com/group/universityprogram/w/contests/2117.winners-circle#2015_winners) -  Best Environmental Impact
- * <b>05/2014:</b> Won an Outstanding GSI Award for Fall 2013
- * <b>04/2014:</b> Awarded an NSF GRFP Fellowship
- * <b>09/2013:</b> Began my PhD studies at the University of Michigan
+<!-- * <b>11/2017:</b> Ran a tutorial session on Tock at [SenSys 2017](https://www.tockos.org/events/sensys2017) -->
+<!-- * <b>09/2017:</b> Moved to the University of California, Berkeley to continue my PhD studies -->
+<!-- * <b>08/2017:</b> Ran a tutorial session on Tock at [Rustconf 2017](https://www.tockos.org/events/rustconf2017) -->
+<!-- * <b>03/2017:</b> Hosted a tutorial session on [using Signpost](https://github.com/lab11/signpost-software/blob/master/docs/TutorialSession.md) -->
+<!-- * <b>08/2016:</b> Check out our website on the [Tock OS project](http://www.tockos.org/) -->
+<!-- * <b>10/2015:</b> Featured in a Michigan graduate student profile [video](https://www.youtube.com/watch?v=sbth2saT0xk) -->
+<!-- * <b>08/2015:</b> PowerBlade won [TI Innovation Challenge 2015](http://e2e.ti.com/group/universityprogram/w/contests/2117.winners-circle#2015_winners) -  Best Environmental Impact -->
+<!-- * <b>05/2014:</b> Won an Outstanding GSI Award for Fall 2013 -->
+<!-- * <b>04/2014:</b> Awarded an NSF GRFP Fellowship -->
+<!-- * <b>09/2013:</b> Began my PhD studies at the University of Michigan -->
 
 ### Selected Publications
 

@@ -9,8 +9,62 @@ experience of engineering.
 
 ---
 
-Instructor - Great Ideas in Computer Architecture:
---------------------------------------------------
+Courses
+-------
+
+In Fall 2020 I began teaching full-time as an Assistant Professor of
+Instruction in the Computer Science Department at Northwestern University. My
+teaching focuses on the "computer science systems" domain, from entry-level
+courses to more senior, in-depth courses. Recent courses include:
+
+ * **CS211: "Fundamentals of Computer Programming II"**
+   * An introduction to C/C++ and command line
+ * **CS213: "Introduction to Computer Systems"**
+   * An introduction to a programmer's perspective on computer systems
+ * **CS343: "Operating Systems"**
+   * An in-depth view of operating system design and abstractions
+ * **CE346: "Microprocessor System Design"**
+   * An introduction to microcontroller-systems software and hardware
+ * **CS397/CS497: "Wireless Protocols for the Internet of Things"**
+   * An in-depth exploration of wireless protocols used for Internet of Things technologies
+
+Prior course materials for my classes are publicly available.
+
+<tt>
+[[Course Materials]](https://brghena.github.io/courses/)
+</tt>
+
+
+---
+
+Application Materials
+---------------------
+
+In Fall 2019/Winter 2022 I was on the market. I was focused on teaching positions
+including teaching faculty at larger R1 institutions and tenure-track faculty at smaller
+teaching-focused institutions. Typically my applications were to the Computer Science
+departments, but occasionally to Electrical and Computer Engineering departments as well.
+
+All of my application materials are publicly available including my teaching statement,
+research statement, and diversity equity & inclusion statement. Some of this varied slightly
+from institution to institution. Also included are my cover letters and the build system to
+generate all documents.
+
+<tt>
+[[Application Materials]](https://github.com/brghena/appkit-statements)
+</tt>
+
+---
+
+---
+
+Prior Work
+----------
+
+Below are other teaching experiences from before I started as a faculty.
+
+
+### Instructor - Great Ideas in Computer Architecture:
 
 In Summer 2019, I had the opportunity to be an instructor for the introductory
 computer architecture and computer organization class at Berkeley, CS61C. The
@@ -33,8 +87,7 @@ for me.
 
 ---
 
-TA - Introduction to Embedded Systems:
---------------------------------------
+### TA - Introduction to Embedded Systems:
 
 In Fall 2018, I was a graduate student instructor for EE149: Introduction to
 Embedded Systems at UC Berkeley. I was one of three TAs in charge of all lab
@@ -66,8 +119,7 @@ controlling robots with state machines.
 
 ---
 
-TA - Computer Organization:
----------------------------
+### TA - Computer Organization:
 
 In Fall 2013, I was a graduate student instructor for EECS 370: Computer
 Organization at the University of Michigan. The course covers basic processor
@@ -117,8 +169,7 @@ PDF:
 
 ---
 
-Undergraduate Research:
------------------------
+### Undergraduate Research:
 
 At Michigan and at Berkeley I was proud to support undergraduate research. At
 Michigan I advised nine undergraduates and two high school students for
@@ -130,8 +181,7 @@ from CS61C the year after.
 
 ---
 
-Embedded Systems Office Hours:
-------------------------------
+### Embedded Systems Office Hours:
 
 The [Michigan Embedded Systems Hub](https://www.eecs.umich.edu/hub/) (MESH) is
 an open lab providing power supplies, oscilloscopes, and soldering supplies to
@@ -152,8 +202,7 @@ institutions in the future.
 
 ---
 
-Guest Lectures:
----------------
+### Guest Lectures:
 
 **Introduction to Embedded Systems**
 

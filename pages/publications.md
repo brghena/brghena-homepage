@@ -1,5 +1,19 @@
 Publications
 ============
+**2022**
+
+ 1. ["**ReliaBLE: Towards Reliable Communication via Bluetooth Low Energy Advertisement Networks**"](projects/ble/zachariah22reliable.pdf)  
+    Thomas Zachariah, Neal Jackson, **Branden Ghena**, and Prabal Dutta  
+    In _Proceedings of the 2022 International Conference on Embedded Wireless Systems and Networks (EWSN'22)_  
+    Linz, Austria, October 3-5, 2022  
+
+**2020**
+
+ 1. ["**Investigating Low Energy Wireless Networks for the Internet of Things**"](projects/dissertation/ghena20dissert.pdf)  
+    **Branden Ghena**  
+    _University of California, Berkeley Dissertation_  
+    Berkeley, California, Fall, 2020  
+
 **2019**
 
  1. ["**Challenge: Unlicensed LPWANs Are Not Yet the Path to Ubiquitous Connectivity**"](projects/lpwan/ghena19lpwans.pdf)  

@@ -42,6 +42,7 @@
 					<!--<li ><a href="talks.html">Talks</a></li>-->
 					<li ><a href="teaching.html">Teaching</a></li>
 					<!--<li ><a href="misc.html">Misc</a></li>-->
+					<li><a href="https://brghena.github.io/courses/">Course Materials</a></li>
 				</ul>
 
 				<ul class="nav navbar-nav navbar-right">
@@ -62,13 +63,13 @@
         <td width="0" valign="top" align="left">
 
 <p style="font-size:16px">
-My research area is embedded systems. It is the kind of field where you debug
+My research covers several systems areas including networking and operating
+systems, but my specialty is embedded systems. It is the kind of field where you debug
 software with an oscilloscope. Particularly, I work on resource-constrained
 embedded hardware, software, and networking. Of a particular interest to me are
 networking protocols such as Bluetooth Low Energy, LoRaWAN, and LTE-M, which
-are capable of supporting various Internet of Things communication needs. My
-research covers several systems areas including networking and operating
-systems.
+are capable of supporting various Internet of Things communication needs. I am
+also focused on operating systems for embedded systems through the Tock project.
 </p>
 <p 
 
@@ -88,6 +89,66 @@ href="https://github.com/lab11">Github</a>.
         </td>
     </tr>
 </table>
+
+<hr />
+<h2 id="tock">Tock</h2>
+<table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+        <td valign="top" align="left">
+            <img height="200" src="images/tock_process.png">
+        </td>
+        <td width="25">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td width="0" valign="top" align="left">
+
+Embedded operating systems have traditionally been limited to libraries that
+abstract hardware and implement common utilities. These systems provide only
+limited mechanisms, if any, to ensure the safety of drivers and isolate
+applications. An answer to this need is Tock, a safe, multitasking operating
+system for memory constrained devices. It is written in Rust, a type-safe
+systems language which is used to enforce safety of of kernel components. Tock
+allows applications, which can be written in any language, to be compiled and
+loaded independently from the kernel.
+
+Tock is an open source project in use by research groups at several
+universities, multiple companies, and independent engineers all over the world.
+The project is still under active development and we welcome anyone interested
+to participate.
+
+<p>
+<tt>
+<a href="https://github.com/tock/tock">[Source]</a>
+<a href="https://tockos.org">[Tock-OS Website]</a>
+</tt>
+</p>
+
+        </td>
+    </tr>
+</table>
+
+<p></p>
+
+<p>This work has led to multiple workshop papers and a conference paper at SOSP'17.</p>
+<p><strong>Abstract:</strong><br />
+Low-power microcontrollers lack some of the hardware features and memory
+resources that enable multiprogrammable systems. Accordingly,
+microcontroller-based operating systems have not provided important features
+like fault isolation, dynamic memory allocation, and flexible concurrency.
+However, an emerging class of embedded applications are software platforms,
+rather than single purpose devices, and need these multiprogramming features.
+Tock, a new operating system for low-power platforms, takes advantage of
+limited hardware-protection mechanisms as well as the type-safety features of
+the Rust programming language to provide a multiprogramming environment for
+microcontrollers. Tock isolates software faults, provides memory protection,
+and efficiently manages memory for dynamic application workloads written in any
+language. It achieves this while retaining the dependability requirements of
+long-running applications.</p>
+<p>
+<tt>
+<a href="projects/tock/levy17multiprogramming.pdf">[SOSP'17 Conference Paper]</a>
+<a href="projects/tock/levy17rustkernel.pdf">[APSys'17 Workshop Paper]</a>
+<a href="projects/tock/levy15ownership.pdf">[PLOS'15 Workshop Paper]</a>
+</tt>
+</p>
 
 <hr />
 <h2 id="low-power-wide-area-networking">Low-Power Wide Area Networking</h2>
@@ -115,6 +176,7 @@ technologies.</p>
 <p>
 <tt>
 <a href="projects/lpwan/ghena19lpwans.pdf">[MobiCom'19 Conference Paper]</a>
+<a href="projects/lpwan/mobicom_ghena19lpwans.pptx">[MobiCom'19 Presentation]</a>
 </tt>
 </p>
 
@@ -130,10 +192,18 @@ deployed devices. We find that academic literature has not rigorously studied
 BLE advertisement networks in theory or practice, and are currently exploring
 its use.</p>
 <p>This work has so far resulted in a related workshop paper on the potential for
-smartphone data muling over BLE advertisements at HotMobile'19.</p>
+smartphone data muling over BLE advertisements at HotMobile'19</p>
 <p>
 <tt>
 <a href="projects/ble/adkins19freeloader.pdf">[HotMobile'19 Workshop Paper]</a>
+</tt>
+</p>
+
+<p>This work also resulted in a conference paper on BLE network analysis and
+measurement at EWSN'22.</p>
+<p>
+<tt>
+<a href="projects/ble/zachariah22reliable.pdf">[EWSN'22 Conference Paper]</a>
 </tt>
 </p>
 
@@ -264,66 +334,6 @@ intelligent building applications.</p>
 <p>
 <tt>
 <a href="projects/gateway/campbell16gateway-demo.pdf">[BuildSys'16 Demo Paper]</a>
-</tt>
-</p>
-
-<hr />
-<h2 id="tock">Tock</h2>
-<table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-        <td valign="top" align="left">
-            <img height="200" src="images/tock_process.png">
-        </td>
-        <td width="25">&nbsp;&nbsp;&nbsp;&nbsp;</td>
-        <td width="0" valign="top" align="left">
-
-Embedded operating systems have traditionally been limited to libraries that
-abstract hardware and implement common utilities. These systems provide only
-limited mechanisms, if any, to ensure the safety of drivers and isolate
-applications. An answer to this need is Tock, a safe, multitasking operating
-system for memory constrained devices. It is written in Rust, a type-safe
-systems language which is used to enforce safety of of kernel components. Tock
-allows applications, which can be written in any language, to be compiled and
-loaded independently from the kernel.
-
-Tock is an open source project in use by research groups at several
-universities, multiple companies, and independent engineers all over the world.
-The project is still under active development and we welcome anyone interested
-to participate.
-
-<p>
-<tt>
-<a href="https://github.com/tock/tock">[Source]</a>
-<a href="https://tockos.org">[Tock-OS Website]</a>
-</tt>
-</p>
-
-        </td>
-    </tr>
-</table>
-
-<p></p>
-
-<p>This work has led to multiple workshop papers and a conference paper at SOSP'17.</p>
-<p><strong>Abstract:</strong><br />
-Low-power microcontrollers lack some of the hardware features and memory
-resources that enable multiprogrammable systems. Accordingly,
-microcontroller-based operating systems have not provided important features
-like fault isolation, dynamic memory allocation, and flexible concurrency.
-However, an emerging class of embedded applications are software platforms,
-rather than single purpose devices, and need these multiprogramming features.
-Tock, a new operating system for low-power platforms, takes advantage of
-limited hardware-protection mechanisms as well as the type-safety features of
-the Rust programming language to provide a multiprogramming environment for
-microcontrollers. Tock isolates software faults, provides memory protection,
-and efficiently manages memory for dynamic application workloads written in any
-language. It achieves this while retaining the dependability requirements of
-long-running applications.</p>
-<p>
-<tt>
-<a href="projects/tock/levy17multiprogramming.pdf">[SOSP'17 Conference Paper]</a>
-<a href="projects/tock/levy17rustkernel.pdf">[APSys'17 Workshop Paper]</a>
-<a href="projects/tock/levy15ownership.pdf">[PLOS'15 Workshop Paper]</a>
 </tt>
 </p>
 
