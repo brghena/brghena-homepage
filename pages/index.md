@@ -55,6 +55,7 @@ Selected Projects:
 ---
 
 ### News
+ * <b>09/2022:</b> Won School of Engineering Cole-Higgins Award for Excellence in Teaching at Northwestern
  * <b>06/2022:</b> Won the CS Instructor of the Year award at Northwestern
  * <b>06/2021:</b> Survived first year of teaching!
  * <b>09/2020:</b> Started as assistant teaching faculty at Northwestern
