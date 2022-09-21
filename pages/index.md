@@ -55,8 +55,8 @@ Selected Projects:
 ---
 
 ### News
- * <b>09/2022:</b> Won School of Engineering Cole-Higgins Award for Excellence in Teaching at Northwestern
- * <b>06/2022:</b> Won the CS Instructor of the Year award at Northwestern
+ * <b>09/2022:</b> Won School of Engineering [Cole-Higgins Award for Excellence in Teaching](https://www.mccormick.northwestern.edu/news/articles/2022/09/northwestern-engineering-names-winners-of-2022-cole-higgins-awards/) at Northwestern
+ * <b>06/2022:</b> Won the Computer Science [Instructor of the Year award](https://www.mccormick.northwestern.edu/computer-science/news-events/news/articles/2022/2022-cs-annual-award-winners.html) at Northwestern
  * <b>06/2021:</b> Survived first year of teaching!
  * <b>09/2020:</b> Started as assistant teaching faculty at Northwestern
  * <b>08/2020:</b> Graduated from UC Berkeley!
