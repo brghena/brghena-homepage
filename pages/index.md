@@ -30,10 +30,10 @@ I was previously a:
 <br>
 
 <p style="font-size:16px">
-Fall 2022 I am teaching:
+Winter 2023 I am teaching:
 <ul>
-<li style="font-size:16px"><a href="https://brghena.github.io/courses/cs343/"><b>CS343:</b> Operating Systems</a></li>
-<li style="font-size:16px"><a href="https://brghena.github.io/courses/ce346/"><b>CE346:</b> Microprocessor System Design</a></li>
+<li style="font-size:16px"><a href="https://brghena.github.io/courses/cs213/"><b>CS213:</b> Intro to Computer Systems</a></li>
+<li style="font-size:16px"><a href="https://brghena.github.io/courses/ce397/"><b>CS397/497:</b> Wireless Protocols for the IoT</a></li>
 </ul>
 </p>
 <br>
