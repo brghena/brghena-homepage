@@ -10,7 +10,7 @@
 
 (BRAN-duhn JEE-nuh, he/him)
 <p style="font-size:16px">branden@northwestern.edu</p>
-<p style="font-size:16px">3305 Mudd Hall
+<p style="font-size:16px">L368 Tech Hall
 <br>Evanston, IL 60208
 </p>
 <br>
