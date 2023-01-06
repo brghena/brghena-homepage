@@ -10,7 +10,7 @@
 
 (BRAN-duhn JEE-nuh, he/him)
 <p style="font-size:16px">branden@northwestern.edu</p>
-<p style="font-size:16px">L368 Tech Hall
+<p style="font-size:16px"><a href="https://www.mccormick.northwestern.edu/contact/tech-room-finder-map.php?id=L368&room-floor=3&room-id=1454&room-ingress=L364">L368 Tech Hall</a>
 <br>Evanston, IL 60208
 </p>
 <br>
