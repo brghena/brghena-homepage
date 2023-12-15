@@ -1,5 +1,12 @@
 Publications
 ============
+
+**2024**
+
+ 1. ["**Experiences Teaching a Wireless for the Internet of Things Course Cooperatively at Multiple Universities.**"](teaching/wiot/nasir24experiences.pdf)  
+    Nabeel Nasir, Viswajith Govinda Rajan, Pat Pannuto, **Branden Ghena**, and Bradford Campbell  
+    In _Proceedings of the 55th ACM Technical Symposium on Computer Science Education (SIGCSE'24)_  
+
 **2022**
 
  1. ["**ReliaBLE: Towards Reliable Communication via Bluetooth Low Energy Advertisement Networks**"](projects/ble/zachariah22reliable.pdf)  

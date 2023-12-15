@@ -30,10 +30,9 @@ I was previously a:
 <br>
 
 <p style="font-size:16px">
-Fall 2023 I am teaching:
+Winter 2024 I am teaching:
 <ul>
 <li style="font-size:16px"><a href="https://brghena.github.io/courses/cs213/"><b>CS213:</b> Intro to Computer Systems</a></li>
-<li style="font-size:16px"><a href="https://brghena.github.io/courses/ce346/"><b>CE346:</b> Microprocessor System Design</a></li>
 </ul>
 </p>
 <br>
@@ -62,7 +61,7 @@ Selected Projects:
  * <b>08/2020:</b> Graduated from UC Berkeley!
  * <b>03/2020:</b> Accepted a position at Northwestern as assistant professor of instruction starting Fall 2020
  * <b>03/2019:</b> Won the Outstanding Graduate Student Instructor Award for Fall 2018
- * <b>04/2018:</b> Signpost wins best demo runner up at IPSN 2018
+<!-- * <b>04/2018:</b> Signpost wins best demo runner up at IPSN 2018 -->
 <!-- * <b>11/2017:</b> Ran a tutorial session on Tock at [SenSys 2017](https://www.tockos.org/events/sensys2017) -->
 <!-- * <b>09/2017:</b> Moved to the University of California, Berkeley to continue my PhD studies -->
 <!-- * <b>08/2017:</b> Ran a tutorial session on Tock at [Rustconf 2017](https://www.tockos.org/events/rustconf2017) -->
@@ -75,6 +74,10 @@ Selected Projects:
 <!-- * <b>09/2013:</b> Began my PhD studies at the University of Michigan -->
 
 ### Selected Publications
+
+["**Experiences Teaching a Wireless for the Internet of Things Course Cooperatively at Multiple Universities.**"](teaching/wiot/nasir24experiences.pdf)  
+Nabeel Nasir, Viswajith Govinda Rajan, Pat Pannuto, **Branden Ghena**, and Bradford Campbell  
+In _Proceedings of the 55th ACM Technical Symposium on Computer Science Education (SIGCSE'24)_  
 
 ["**Challenge: Unlicensed LPWANs Are Not Yet the Path to Ubiquitous Connectivity**"](projects/lpwan/ghena19lpwans.pdf)  
 **Branden Ghena**, Joshua Adkins, Longfei Shangguan, Kyle Jamieson, Philip Levis, and Prabal Dutta  
