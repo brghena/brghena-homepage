@@ -32,7 +32,8 @@ I was previously a:
 <p style="font-size:16px">
 Winter 2024 I am teaching:
 <ul>
-<li style="font-size:16px"><a href="https://brghena.github.io/courses/cs213/"><b>CS213:</b> Intro to Computer Systems</a></li>
+<li style="font-size:16px"><a href="https://brghena.github.io/courses/cs343/"><b>CS343:</b> Operating Systems</a></li>
+<li style="font-size:16px"><a href="https://brghena.github.io/courses/ce346/"><b>CE346:</b> Microcontroller System Design</a></li>
 </ul>
 </p>
 <br>

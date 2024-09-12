@@ -23,9 +23,9 @@ courses to more senior, in-depth courses. Recent courses include:
    * An introduction to a programmer's perspective on computer systems
  * **CS343: "Operating Systems"**
    * An in-depth view of operating system design and abstractions
- * **CE346: "Microprocessor System Design"**
+ * **CE346/CS346: "Microcontroller System Design"**
    * An introduction to microcontroller-systems software and hardware
- * **CS397/CS497: "Wireless Protocols for the Internet of Things"**
+ * **CS433: "Wireless Protocols for the Internet of Things"**
    * An in-depth exploration of wireless protocols used for Internet of Things technologies
 
 Prior course materials for my classes are publicly available.
