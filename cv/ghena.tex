@@ -14,12 +14,15 @@
 \usepackage{tabularx}
 
 % Bibliography entries for papers, talks and demos
+% bibentry and hyperref seem to break each other: https://tex.stackexchange.com/questions/387937/bibentry-with-template-causes-error-lonely-item-perhaps-a-missing-list-enviro
 \usepackage{bibentry}
+\makeatletter\let\saved@bibitem\@bibitem\makeatother
 \bibliographystyle{plain}
 
 % Creates hyperlinks from ref/cite
-% Seems to break things?
-%\usepackage[colorlinks=true,citecolor=violet,urlcolor=Navy,linkcolor=black]{hyperref}
+\usepackage{xcolor}
+\usepackage[colorlinks=true,citecolor=violet,urlcolor=blue,linkcolor=black]{hyperref}
+\makeatletter\let\@bibitem\saved@bibitem\makeatother
 
 % Add a space after each paragraph
 \setlength\parindent{0pt}
@@ -44,7 +47,7 @@
     {Department of Computer Science}     & {} \\
     {Northwestern University}   & {Cell:~+1.734.755.6653} \\
     {2145 Sheridan Road} & {branden@northwestern.edu} \\
-    {Tech Hall L368} & {https://brandenghena.com} \\
+    {Tech Hall L368} & \url{https://brandenghena.com} \\
     {Evanston, IL 60208} & {} \\
 \end{tabularx}
 \end{table}
@@ -72,7 +75,8 @@ Advisor: Prabal Dutta
 
 {\bf Michigan Technological University}, Houghton, Michigan~(2008--2013) \\
 B.S. Computer Engineering \& Electrical Engineering \\
-GPA: 3.98 --- Summa Cum Laude
+%% It's time to let this go
+%GPA: 3.98 --- Summa Cum Laude
 
 
 \section*{Teaching Experience}
@@ -84,35 +88,35 @@ GPA: 3.98 --- Summa Cum Laude
     \vspace{-\topsep}
     \vspace{\itemsep}
     \begin{itemize}
-      \item Topics include C and C++ programming, memory management, and the Unix shell.
+      \item Topics: C and C++ programming, memory management, and the Unix shell. 120--200 students.
     \end{itemize}
   \item[] Instructor, CS213: Introduction to Computer Systems~(F20,S21,W22,W23,F23,W24,W25)
     \vspace{-\topsep}
     \vspace{\itemsep}
     \begin{itemize}
-      \item Topics include number representation, control flow, caches, and parallelism.
+      \item Topics: data representation, control flow, caches, and parallelism. 150--250 students.
     \end{itemize}
   \item[] Instructor, CS343: Operating Systems~(F20,S22,F22,S24,F24)
     \vspace{-\topsep}
     \vspace{\itemsep}
     \begin{itemize}
-      \item Topics include concurrency, scheduling, virtual memory, and file systems.
+      \item Topics: concurrency, scheduling, virtual memory, and file systems. 80--150 students.
     \end{itemize}
   \item[] Instructor, CE346/CS346: Microcontroller System Design~(S21,F21,F22,F23,F24,S25)
     \vspace{-\topsep}
     \vspace{\itemsep}
     \begin{itemize}
-      \item Topics include microcontrollers, communication buses, and embedded software.
+      \item Topics: microcontrollers, communication buses, and embedded software. 50--60 students.
     \end{itemize}
   \item[] Instructor, CS433: Wireless Protocols for the Internet of Things~(W21,S22,W23,S24,S25)
     \vspace{-\topsep}
     \vspace{\itemsep}
     \begin{itemize}
-      \item Topics include Bluetooth Low-Energy, 802.15.4, and Low-Power Wide-Area Networks.
+      \item Topics: Bluetooth Low-Energy, 802.15.4, and Low-Power Wide-Area Networks. 20--40 students.
     \end{itemize}
 \end{itemize}
 
-% HACK, make page breaks better
+%% HACK, make page breaks better
 \newpage
 
 {\bf University of California, Berkeley}, Berkeley, California
@@ -156,6 +160,18 @@ GPA: 3.98 --- Summa Cum Laude
 \end{itemize}
 
 
+\section*{Advising}
+\vspace{-6pt}
+{\bf Northwestern University}, Evanston, Illinois
+\vspace{-6pt}
+\begin{itemize}
+  \item[] Undergraduates Natalie Hill and Jason Lu, ``Development of a Teaching File System for CS343''~(F24,W25)
+  \item[] Undergraduates Anthony Alvarez and Jason Hu, ``Tock: PIO SPI Driver''~(F24,W25)
+  \item[] Undergraduates Mary Caserio, Jason Lu, Randy Truong, and Mavis Wang, ``Tock: Remote System Calls''~(F23,W24)
+  \item[] Undergraduate Joshua Feist, ``Development of a Battery Monitoring System''~(W22)
+\end{itemize}
+
+
 \section*{Research Experience}
 \vspace{-6pt}
 
@@ -184,6 +200,7 @@ including both hardware and software testing~(2013)
 Summer Internship: Designed and fabricated a computer board to interface a
 thruster with a satellite Command and Data Handling system~(2012)
 
+%% Seems that high school can be left off of this
 %{\bf Jefferson High School}, Monroe, Michigan \\
 %FIRST Robotics Competition: Team member~(2004--2008)
 
@@ -197,6 +214,13 @@ C++ languages. Worked with HDDs and SSDs as well as SATA and SCSI protocols (201
 
 {\bf Fermi 2 Nuclear Power Plant}, Monroe, Michigan \\
 Summer Internship: Created plant configuration management documentation (2009)
+
+\section*{Open Source Projects}
+\vspace{-6pt}
+
+{\bf Tock Embedded Operating System}, \url{https://github.com/tock/tock} \\
+Developer and Core Working Group team member~(2015--Present) \\
+Board Member of Tock Foundation~(2025--Present)
 
 
 %\section*{Conference, Workshop, and Technical Report Publications}
@@ -243,7 +267,7 @@ Summer Internship: Created plant configuration management documentation (2009)
 \end{enumerate}
 
 %\section*{Books}
-% add the EE149 lab manual here once finished
+%% add the EE149 lab manual here once finished -- HA. That's never going to happen
 
 %\section*{Invited Talks and Lectures}
 
@@ -252,8 +276,9 @@ Summer Internship: Created plant configuration management documentation (2009)
 \begin{itemize}
   \item[] Northwestern CS Study Abroad~(2021--Present)
   \item[] Northwestern TCG Club Advisor~(2021--Present)
-  \item[] Northwestern CE Tenure-track Faculty Search Committee~(Winter 2023)
-  \item[] Northwestern CS Teaching-track Faculty Search Committee~(Winter 2022)
+  \item[] Northwestern CS Research Track Mentor~(W24,W25)
+  \item[] Northwestern CE Tenure-track Faculty Search Committee~(W23)
+  \item[] Northwestern CS Teaching-track Faculty Search Committee~(W22)
   \item[] PC Member, DATA Workshop at IPSN~(2020--2022)
   \item[] PC Member, LP-IoT Workshop at MobiCom~(2021)
 \end{itemize}
@@ -261,8 +286,9 @@ Summer Internship: Created plant configuration management documentation (2009)
 \section*{Awards and Grants}
 \vspace{-6pt}
 \begin{itemize}
-  \item[] Cole-Higgins Award for Excellence in Teaching, Northwestern University, McCormick School of Engineering~(2022)
-  \item[] Instructor of the Year, Northwestern University Computer Science Department~(2022)
+  \item[] NSF POSE Phase II Grant, Tock Secure Embedded Operating System, \$1,500,000~(2023-2026)
+  \item[] \textbf{Cole-Higgins Award for Excellence in Teaching}, Northwestern University, McCormick School of Engineering~(2022)
+  \item[] Instructor of the Year, Northwestern University, Computer Science Department~(2022)
   \item[] Northwestern Associated Student Government Faculty \& Administrator Honor Roll~(2022)
   \item[] Outstanding Graduate Student Instructor, UC Berkeley EECS Department~(Fall 2018)
   \item[] Best Demo Runner Up - IPSN'18~(2018)

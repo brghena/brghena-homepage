@@ -1,4 +1,5 @@
 __pycache__/
+cv/*.out
 cv/*.aux
 cv/*.log
 cv/*.bbl
