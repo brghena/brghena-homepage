@@ -55,6 +55,7 @@ Selected Projects:
 ---
 
 ### News
+ * <b>08/2025:</b> Got married!
  * <b>09/2022:</b> Won School of Engineering [Cole-Higgins Award for Excellence in Teaching](https://www.mccormick.northwestern.edu/news/articles/2022/09/northwestern-engineering-names-winners-of-2022-cole-higgins-awards/) at Northwestern
  * <b>06/2022:</b> Won the Computer Science [Instructor of the Year award](https://www.mccormick.northwestern.edu/computer-science/news-events/news/articles/2022/2022-cs-annual-award-winners.html) at Northwestern
  * <b>06/2021:</b> Survived first year of teaching!
@@ -75,6 +76,11 @@ Selected Projects:
 <!-- * <b>09/2013:</b> Began my PhD studies at the University of Michigan -->
 
 ### Selected Publications
+
+
+["**Tock: From Research to Securing 10 Million Computers"](projects/tock/2025-sosp-tock-decade.pdf)  
+Leon Schuermann, Brad Campbell, **Branden Ghena**, Philip Levis, Amit Levy, and Pat Pannuto  
+In _Proceedings of the 31st Symposium on Operating Systems Principles (SOSP'25)_  
 
 ["**Experiences Teaching a Wireless for the Internet of Things Course Cooperatively at Multiple Universities.**"](teaching/wiot/nasir24experiences.pdf)  
 Nabeel Nasir, Viswajith Govinda Rajan, Pat Pannuto, **Branden Ghena**, and Bradford Campbell  

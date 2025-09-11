@@ -1,11 +1,18 @@
 Publications
 ============
 
+**2025**
+ 1. ["**Tock: From Research to Securing 10 Million Computers"](projects/tock/2025-sosp-tock-decade.pdf)  
+   Leon Schuermann, Brad Campbell, **Branden Ghena**, Philip Levis, Amit Levy, and Pat Pannuto  
+    In _Proceedings of the 31st Symposium on Operating Systems Principles (SOSP'25)_  
+    Seoul, Republic of Korea, October 13-16, 2025  
+
 **2024**
 
- 1. ["**Experiences Teaching a Wireless for the Internet of Things Course Cooperatively at Multiple Universities.**"](teaching/wiot/nasir24experiences.pdf)  
+ 1. ["**Experiences Teaching a Wireless for the Internet of Things Course Cooperatively at Multiple Universities**"](teaching/wiot/nasir24experiences.pdf)  
     Nabeel Nasir, Viswajith Govinda Rajan, Pat Pannuto, **Branden Ghena**, and Bradford Campbell  
     In _Proceedings of the 55th ACM Technical Symposium on Computer Science Education (SIGCSE'24)_  
+   Portland, Oregon, USA, March 20-23, 2024  
 
 **2022**
 
@@ -19,7 +26,7 @@ Publications
  1. ["**Investigating Low Energy Wireless Networks for the Internet of Things**"](projects/dissertation/ghena20dissert.pdf)  
     **Branden Ghena**  
     _University of California, Berkeley Dissertation_  
-    Berkeley, California, Fall, 2020  
+    Berkeley, California, USA, Fall, 2020  
 
 **2019**
 
