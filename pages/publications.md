@@ -3,7 +3,7 @@ Publications
 
 **2025**
 
- 1. ["**Tock: From Research to Securing 10 Million Computers"](projects/tock/2025-sosp-tock-decade.pdf)  
+ 1. ["**Tock: From Research to Securing 10 Million Computers**"](projects/tock/2025-sosp-tock-decade.pdf)  
    Leon Schuermann, Brad Campbell, **Branden Ghena**, Philip Levis, Amit Levy, and Pat Pannuto  
     In _Proceedings of the 31st Symposium on Operating Systems Principles (SOSP'25)_  
     Seoul, Republic of Korea, October 13-16, 2025  

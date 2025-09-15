@@ -39,6 +39,9 @@ href="https://github.com/lab11">Github</a>.
 
 ---
 
+# Active Projects
+
+
 Tock
 ----
 
@@ -77,9 +80,9 @@ to participate.
 <p></p>
 
 
-This work has led to multiple workshop papers and a conference paper at SOSP'17.
+This work has led to multiple workshop papers and conference papers at SOSP'17 and SOSP'25.
 
-**Abstract:**  
+**Abstract:** (SOSP'17)  
 Low-power microcontrollers lack some of the hardware features and memory
 resources that enable multiprogrammable systems. Accordingly,
 microcontroller-based operating systems have not provided important features
@@ -94,13 +97,33 @@ and efficiently manages memory for dynamic application workloads written in any
 language. It achieves this while retaining the dependability requirements of
 long-running applications.
 
+**Abstract:** (SOSP'25)  
+Tock began 10 years ago as a research operating system developed by academics
+to help other academics build urban sensing applications. By leveraging a new
+language (Rust) and new hardware protection mechanisms, Tock enabled
+“Multiprogramming a 64 kB Computer Safely and Efficiently”. Today, it is an
+open-source project with a vibrant community of users and contributors. It is
+deployed on root-of-trust hardware in data-center servers and on millions of
+laptops; it is used to develop automotive and space products, wearable
+electronics, and hardware security tokens—all while remaining a platform for
+operating systems research. This paper focuses on the impact of Tock’s
+technical design on its adoption, the challenges and unexpected benefits of
+using a type-safe language (Rust)—particularly in security-sensitive
+settings—and the experience of supporting a production open-source operating
+system from academia.
+
+
+
 <p>
 <tt>
+<a href="projects/tock/2025-sosp-tock-decade.pdf">[SOSP'25 Conference Paper]</a>
 <a href="projects/tock/levy17multiprogramming.pdf">[SOSP'17 Conference Paper]</a>
 <a href="projects/tock/levy17rustkernel.pdf">[APSys'17 Workshop Paper]</a>
 <a href="projects/tock/levy15ownership.pdf">[PLOS'15 Workshop Paper]</a>
 </tt>
 </p>
+
+
 
 ---
 
@@ -138,6 +161,8 @@ technologies.
 </p>
 
 ---
+
+# Inactive Projects
 
 BLE Networking
 --------------
