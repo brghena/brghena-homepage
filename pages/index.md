@@ -16,7 +16,7 @@
 <br>
 
 <p style="font-size:16px">
-I am an Assistant Professor of Instruction at Northwestern University in the
+I am an Associate Professor of Instruction at Northwestern University in the
 Computer Science Department.
 </p>
 <p style="font-size:16px">
@@ -30,9 +30,10 @@ I was previously a:
 <br>
 
 <p style="font-size:16px">
-Winter 2026 I am teaching:
+Spring 2026 I am teaching:
 <ul>
-<li style="font-size:16px"><a href="https://brghena.github.io/courses/cs213/"><b>CS213:</b> Intro to Computer Systems</a></li>
+<li style="font-size:16px"><a href="https://brghena.github.io/courses/ce346/"><b>CS346/CE346:</b> Microcontroller System Design</a></li>
+<li style="font-size:16px"><a href="https://brghena.github.io/courses/cs433/"><b>CS433:</b> Wireless Protocols for the Internet of Things</a></li>
 </ul>
 </p>
 <br>
@@ -54,6 +55,7 @@ Selected Projects:
 ---
 
 ### News
+ * <b>09/2026:</b> Promoted to Associate Professor of Instruction
  * <b>08/2025:</b> Got married!
  * <b>09/2022:</b> Won School of Engineering [Cole-Higgins Award for Excellence in Teaching](https://www.mccormick.northwestern.edu/news/articles/2022/09/northwestern-engineering-names-winners-of-2022-cole-higgins-awards/) at Northwestern
  * <b>06/2022:</b> Won the Computer Science [Instructor of the Year award](https://www.mccormick.northwestern.edu/computer-science/news-events/news/articles/2022/2022-cs-annual-award-winners.html) at Northwestern
