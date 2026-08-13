@@ -10,14 +10,14 @@
 
 (BRAN-duhn JEE-nuh, he/him)
 <p style="font-size:16px">branden@northwestern.edu</p>
-<p style="font-size:16px"><a href="https://www.mccormick.northwestern.edu/contact/tech-room-finder-map.php?id=L368&room-floor=3&room-id=1454&room-ingress=L364">L368 Tech Hall</a>
-<br>Evanston, IL 60208
+<p style="font-size:16px"><a href="https://www.mccormick.northwestern.edu/contact/tech-room-finder-map.php?id=L368&room-floor=3&room-id=1454&room-ingress=L364">L368 Tech Hall</a> Evanston, IL 60208
 </p>
 <br>
 
 <p style="font-size:16px">
-I am an Associate Professor of Instruction at Northwestern University in the
-Computer Science Department.
+Neild Associate Professor of Instruction
+<br><a href="https://www.mccormick.northwestern.edu/computer-science/">Computer Science Department</a>
+<br><a href="https://www.northwestern.edu/">Northwestern University</a>
 </p>
 <p style="font-size:16px">
 I was previously a:
@@ -30,10 +30,10 @@ I was previously a:
 <br>
 
 <p style="font-size:16px">
-Spring 2026 I am teaching:
+Fall 2026 I am teaching:
 <ul>
+<li style="font-size:16px"><a href="https://brghena.github.io/courses/cs343/"><b>CS343:</b> Operating Systems</a></li>
 <li style="font-size:16px"><a href="https://brghena.github.io/courses/ce346/"><b>CS346/CE346:</b> Microcontroller System Design</a></li>
-<li style="font-size:16px"><a href="https://brghena.github.io/courses/cs433/"><b>CS433:</b> Wireless Protocols for the Internet of Things</a></li>
 </ul>
 </p>
 <br>
@@ -56,17 +56,19 @@ Selected Projects:
 
 ### News
  * <b>09/2026:</b> Promoted to Associate Professor of Instruction
+ * <b>09/2026:</b> Awarded Tania and Carter Neild Professorship for three years (2026-2029)
  * <b>08/2025:</b> Got married!
  * <b>09/2022:</b> Won School of Engineering [Cole-Higgins Award for Excellence in Teaching](https://www.mccormick.northwestern.edu/news/articles/2022/09/northwestern-engineering-names-winners-of-2022-cole-higgins-awards/) at Northwestern
  * <b>06/2022:</b> Won the Computer Science [Instructor of the Year award](https://www.mccormick.northwestern.edu/computer-science/news-events/news/articles/2022/2022-cs-annual-award-winners.html) at Northwestern
- * <b>06/2021:</b> Survived first year of teaching!
  * <b>09/2020:</b> Started as assistant teaching faculty at Northwestern
  * <b>08/2020:</b> Graduated from UC Berkeley!
- * <b>03/2020:</b> Accepted a position at Northwestern as assistant professor of instruction starting Fall 2020
- * <b>03/2019:</b> Won the Outstanding Graduate Student Instructor Award for Fall 2018
+ * <b>09/2017:</b> Moved to the University of California, Berkeley to continue my PhD studies
+ * <b>09/2013:</b> Began my PhD studies at the University of Michigan
+<!-- * <b>06/2021:</b> Survived first year of teaching! -->
+<!-- * <b>03/2020:</b> Accepted a position at Northwestern as assistant professor of instruction starting Fall 2020 -->
+<!-- * <b>03/2019:</b> Won the Outstanding Graduate Student Instructor Award for Fall 2018 -->
 <!-- * <b>04/2018:</b> Signpost wins best demo runner up at IPSN 2018 -->
 <!-- * <b>11/2017:</b> Ran a tutorial session on Tock at [SenSys 2017](https://www.tockos.org/events/sensys2017) -->
-<!-- * <b>09/2017:</b> Moved to the University of California, Berkeley to continue my PhD studies -->
 <!-- * <b>08/2017:</b> Ran a tutorial session on Tock at [Rustconf 2017](https://www.tockos.org/events/rustconf2017) -->
 <!-- * <b>03/2017:</b> Hosted a tutorial session on [using Signpost](https://github.com/lab11/signpost-software/blob/master/docs/TutorialSession.md) -->
 <!-- * <b>08/2016:</b> Check out our website on the [Tock OS project](http://www.tockos.org/) -->
@@ -74,7 +76,6 @@ Selected Projects:
 <!-- * <b>08/2015:</b> PowerBlade won [TI Innovation Challenge 2015](http://e2e.ti.com/group/universityprogram/w/contests/2117.winners-circle#2015_winners) -  Best Environmental Impact -->
 <!-- * <b>05/2014:</b> Won an Outstanding GSI Award for Fall 2013 -->
 <!-- * <b>04/2014:</b> Awarded an NSF GRFP Fellowship -->
-<!-- * <b>09/2013:</b> Began my PhD studies at the University of Michigan -->
 
 ### Selected Publications
 
