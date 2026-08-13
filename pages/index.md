@@ -1,7 +1,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
     <tr>
         <td valign="top" align="left">
-            <img src="images/branden_crossed.jpg" height="470">
+            <img src="images/branden_crossed.jpg" alt="Picture of Branden Ghena" height="470">
         </td>
         <td width="25">&nbsp;&nbsp;&nbsp;&nbsp;</td>
         <td valign="top" align="left">
