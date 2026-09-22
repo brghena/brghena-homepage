@@ -15,7 +15,8 @@
 <br>
 
 <p style="font-size:16px">
-Neild Associate Professor of Instruction
+Associate Professor of Instruction
+<br>McCormick Advisory Council Professorship
 <br><a href="https://www.mccormick.northwestern.edu/computer-science/">Computer Science Department</a>
 <br><a href="https://www.northwestern.edu/">Northwestern University</a>
 </p>
@@ -55,10 +56,11 @@ Selected Projects:
 ---
 
 ### News
+ * <b>09/2026:</b> Won School of Engineering Cole-Higgins Award for Excellence in Teaching (grad students) at Northwestern
  * <b>09/2026:</b> Promoted to Associate Professor of Instruction
- * <b>09/2026:</b> Awarded Tania and Carter Neild Professorship for three years (2026-2029)
+ * <b>09/2026:</b> Awarded McCormick Advisory Council Professorship for three years (2026-2029)
  * <b>08/2025:</b> Got married!
- * <b>09/2022:</b> Won School of Engineering [Cole-Higgins Award for Excellence in Teaching](https://www.mccormick.northwestern.edu/news/articles/2022/09/northwestern-engineering-names-winners-of-2022-cole-higgins-awards/) at Northwestern
+ * <b>09/2022:</b> Won School of Engineering [Cole-Higgins Award for Excellence in Teaching](https://www.mccormick.northwestern.edu/news/articles/2022/09/northwestern-engineering-names-winners-of-2022-cole-higgins-awards/) (undergraduates) at Northwestern
  * <b>06/2022:</b> Won the Computer Science [Instructor of the Year award](https://www.mccormick.northwestern.edu/computer-science/news-events/news/articles/2022/2022-cs-annual-award-winners.html) at Northwestern
  * <b>09/2020:</b> Started as assistant teaching faculty at Northwestern
  * <b>08/2020:</b> Graduated from UC Berkeley!
